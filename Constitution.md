@@ -233,7 +233,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    2. supports the purposes of the Association; and 
 
-   3. agrees to comply with these Rules. 
+   3. agrees to abide by the Code of Conduct; and 
+
+   4. agrees to comply with these Rules. 
 
 2. The application— 
 
@@ -725,7 +727,7 @@ Dispute Resolution Process including first and final appeal processes
 
 1. No business may be conducted at a general meeting unless a quorum of Members is present. 
 
-2. The quorum for a general meeting is the presence (physically, by proxy or as allowed under rule [36](https://docs.google.com/document/d/1LzWKIJCI0lTIxB0ujEdpnupZTWbIBOvTlsfcX83FQ5c/edit#heading=h.e9ug253vp1zr)) of 5% of the Members entitled to vote. 
+2. The quorum for a general meeting requires  a number of members equal to the greater of; 30 total, or, the square root of the active membership identified at the last formal AEC audit, to be present (physically, by proxy or as allowed under rule [36]).  
 
 3. If a quorum is not present within 30 minutes after the notified commencement time of a general meeting— 
 
@@ -1074,17 +1076,19 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 3. On their election, the new President may take over as chairperson of the meeting. 
 
 
-### 57. Election of Branch representatives 
-
-1. Branch representatives are to be elected through an election held by each relevant branch prior to the running of the annual general meeting.
-
-2. A Branch representative must be a current member of the relevant Branch.
-
-3. Elections of Branch representatives are to be held in accordance with branch rule. 
-
-4. Branches failing to elect a Branch representative prior to the AGM have 21 days after the AGM to conduct an election. 
-
-5. If a Branch fails to elect a representative within 21 days of the AGM the Committee may choose to fill the Branch Representative position for that Branch as a casual vacancy in accordance with rule [61](https://docs.google.com/document/d/1LzWKIJCI0lTIxB0ujEdpnupZTWbIBOvTlsfcX83FQ5c/edit#heading=h.fojcncbzaha2).
+### 57. Election of Branch Representatives 
+	
+1. Branch Representatives may be nominated by each relevant branch to fill their vacant representative position at any time. 
+	
+2. Continuing or succeeding Branch Representatives are to be nominated by each relevant branch after the notice is given, but prior to the running of, the annual general meeting. 
+	
+3. A Branch Representative must be a current member of the relevant Branch. 
+	
+4. Elections of Branch Representatives are to be held in accordance with branch rules. 
+	
+5. Branches failing to elect a Branch representative prior to the AGM have 21 days after the AGM to conduct an election. 
+	
+6. If a Branch fails to elect a representative within 21 days of the AGM the Committee may choose to fill the Branch Representative position for that Branch as a casual vacancy in accordance with rule [61].
 
 
 ### 58. Term of office 
@@ -1580,7 +1584,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
 ### 92. Branches 
 
-1. The Committee may establish or disband Branches of the Association. 
+1. The Committee may affiliate or disaffiliate Branches of the Association by unanimous assent, or in accordance with these rules. 
 
 2. The purposes of each Branch are to— 
 
@@ -1624,7 +1628,9 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
 4) Branches must agree to the purposes of the Association and a motion must be passed by a prospective Branch at an Inaugural, Annual or Special General meeting of their membership to this effect.
 
-5) Applications to form a Branch:
+5. A Branch has the right to appoint a member to any subcommittee created under rule 42.
+
+6. Applications to form a Branch:
 
    1. Applications are submitted in writing to the Committee by the prospective Branch.
 
@@ -1652,7 +1658,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
       2. nominate a Branch representative to sit on the Committee.  
 
-6) Governance of Branches:
+7. Governance of Branches:
 
    1. Branches must be governed in accordance with these Rules and the Branch’s operating rules;
 
@@ -1662,27 +1668,38 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    4. A Branch’s operating rules may exist as a formal constitution. 
 
-7) All Branches must submit to the Committee an annual report on Branch operations. 
-
-8) Subject to sub-rule (10), a Member of the Association may register to be a member of a Branch of their choosing and must not register to be a member of more than one Branch. 
-
-9) Without limiting its powers, the Committee may disband / expel a Branch if it— 
-
-   1. has fewer than 50 Members; 
-
-   2. fails to fulfil core Branch functions (for example holding an annual general meeting, holding regular Branch meetings, failure to hold fair internal elections, providing material to enable the successful completion of relevant electoral returns or submitting an annual report, submitting a uptodate membership list etc); 
-
-   3. fails to advocate the Association’s core purposes, principles and goals; or 
-
-   4. has been found to be operating corruptly or in a manner prejudicial to the interests of the Association. 
-
-10) If a Branch has been disbanded or expelled under sub-rules 9(c) or (d) or as a result of a disciplinary action under Part 3 Division 2, the Committee may bar a member of that Branch from registering for a defined period with any existing or new Branch. 
-
-11) If a Branch has no elected member, the Branch may disaffiliate from the Association, provided that this occurs between 6 and 18 months after a general election. 
-
-12) A Branch may not leave the Association during the first parliamentary term of any Party member elected as part of the Association.
-
-> **Note:** Branches are not state branches as referred to by the AEC. 
+8. All Branches must submit to the Committee an annual report on Branch operations. 
+	
+9. Subject to sub-rule (10), a Member of the Association may register to be a member of a Branch of their choosing and must not register to be a member of more than one Branch. 
+	
+10. Without limiting its powers, the Committee may disaffiliate a Branch if it— 
+	
+    1. has fewer than 50 Members; 
+	
+    2. fails to fulfil core Branch functions (for example holding an annual general meeting, holding regular Branch meetings, failure to hold fair internal elections, providing material to enable the successful completion of relevant electoral returns or submitting an annual report, submitting a up-to-date membership list etc); 
+	
+    3. advocates in opposition to the Association’s core purposes, principles and goals; or 
+	
+    4. has been found to be operating corruptly or in a manner prejudicial to the interests of the Association.
+	
+11. If a Branch has been disbanded or expelled under sub-rules 9(c) or (d) or as a result of a disciplinary action under Part 3 Division 2, the Committee may bar a member of that Branch from registering for a defined period with any existing or new Branch. 
+	
+12. If a Branch has no elected member, the Branch may disaffiliate from the Association, provided that this occurs between 6 and 18 months after a general election. 
+	
+13. A Branch may not leave the Association during the first parliamentary term of any Party member elected as part of the Association.
+	
+14. The Committee may designate a Branch as a State Branch for a particular state or territory under the following conditions:
+	
+	1. There is no pre-existing State Branch for that relevant state or territory.
+	
+	2. All proposed Members of the prospective State Branch are registered to vote within the designated state or territory.
+	
+	3. Members of a State Branch may additionally be members of any one (1) other Branch that is not a State Branch. 
+	
+	4. The rules for the prospective State Branch indicate an operational focus or scope within the borders of the particular state or territory. 
+	
+>  **Note:** subrule (13)(d) here does not preclude State Branches from engaging in activities outside of their state, or at a federal level within their state. It is intended to minimise jurisdictional conflict. All member organisations are expected to engage in a collegiate and collaborative manner.
+>  **Note:** Branches are not necessarily state branches as referred to by the AEC. 
 
 
 ### 93. Local Campaign Teams 
