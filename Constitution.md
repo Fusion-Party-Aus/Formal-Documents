@@ -37,7 +37,7 @@ RULES OF ASSOCIATION for 
 
    2. advance any shared policy or platform agreed to by the membership.
 
-   3. facilitate the advancement of branch approved policy and platforms.
+   3. facilitate the advancement of policy supported by non-conflicting branch values with branch backing.
 
    4. achieve the above goals through 
 
@@ -78,7 +78,9 @@ RULES OF ASSOCIATION for 
 
 > **Note:** The original framework was formulated using the GFMAM methodology for developing an asset management framework with the philosophy of “Policy as an Asset”. 
 
-5. Changes to the value framework must be ratified by the Committee and the committees of the Association’s branches so long as:
+5. Changes to the value framework must be ratified by the Committee.
+
+6. The committees of the Association’s branches may challenge a change so long as:
 
    1. the branch attends to reviewing it within a period of not greater than 3 months,
 
@@ -185,6 +187,20 @@ In these Rules— 
 
 3. The Association may only exercise its powers and use its income and assets (including any surplus) for its purposes.
 
+4. The Association may claim sole right to register in any electoral jurisdiction to the exclusion of an existing registered Branch.
+
+   1. When claiming this right, the Association must;
+
+      1. Provide formal notice to the Branch that is currently registered in the applicable jurisdiction, and
+
+      2. Provide formal notice to the Association’s Members.
+
+   2. Upon receiving formal notice from the Association, a Branch registered in the applicable electoral jurisdiction must;
+
+      1. Provide notice to its members of the notice given, should those members be managed separately to those of the Association.
+
+      2. Take formal action to either transfer or revoke their registration, as applicable, within 60 days of their receipt of the notice.
+
 
 ### 7. Not for profit organisation
 
@@ -252,7 +268,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 3. The Committee may reject an individual’s application (submitted individually or as part of a bulk application) if the Committee believes the applicant's membership of the Association will not advance the purposes of the Association. 
 
-4. If the Committee rejects an individual’s application, they must notify the Branch and the applicant in writing of its decision as soon as practicable after the decision is made. 
+4. If the Committee rejects an individual’s application, it must notify the Branch and the applicant of its decision in writing as soon as practicable after the decision is made. 
 
 5. If the Committee rejects the application, it must return any money accompanying the application to the applicant. 
 
@@ -617,9 +633,11 @@ Dispute Resolution Process including first and final appeal processes
 
       2. ii. the financial statements of the Association for the preceding financial year submitted by the Committee in accordance with Part 7 of the Act; 
 
-   3. to elect the members of the Committee; and
+   3. to elect the members of the Committee;
 
-   4. to set, confirm or vary the amounts (if any) of the annual subscription and joining fee for Members, informed by any recommendation of the Committee in subrule 13(1)(a). 
+   4. to set, confirm or vary the amounts (if any) of the annual subscription and joining fee for Members, informed by any recommendation of the Committee in subrule 13(1)(a); and
+
+   5. to endorse or reject any policy implementations adopted by the Association since the previous annual general meeting.  
 
 5. The annual general meeting may also conduct any other business of which notice has been given in accordance with these Rules. 
 
@@ -1009,7 +1027,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
 ### 52. Deputy Office Bearers
 
-1. Deputy Office Bearers exist to support officer bearers and take on their role if the office bearer has taken a formal leave of absence from their position. These are optional positions on the committee. 
+1. Deputy Office Bearers exist to support officer bearers and take on their role if the office bearer is absent. These are optional positions on the committee. 
 
 
 ## Division 3—Election of Committee members and tenure of office 
@@ -1701,7 +1719,9 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
 4. The charter of purposes may be renegotiated at any time by the Local Campaign Team and the unit(s) that establish it, but the establishment unit(s) have the final say. 
 
-5. If a Local Campaign Team is established by one or more Branches its operations are governed by that Branch or Branches. 
+5. If a Local Campaign Team is established by one or more Branches its operations are governed by that Branch or Branches, with the following conditions: 
+
+   1. That the local campaign team coordinates its efforts with the Association either through the Committee or a relevant Election Campaign Committee. 
 
 6. If a Local Campaign Team is established by an Election Campaign Committee or by the Committee, the establishing unit must provide the Local Campaign Team with a set of operating rules. 
 
@@ -1733,7 +1753,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
 ### 95. Leadership 
 
-1. The Association chooses to work in a cooperative manner to forward its objectives through a range of defined roles in committees, subcommittees or individuals delegated specific tasks or roles—consequently the Association does not have a single organisational leader but instead this role is exercised through the roles of President, Convener and National Campaigns Coordinator, and Branch executives. 
+1. The Association chooses to work in a cooperative manner to forward its objectives through a range of defined roles in committees, subcommittees or individuals delegated specific tasks or roles—consequently the Association does not have a single organisational leader but instead this role is exercised throughout those roles.  
 
 2. Members must not adopt the shorthand of referring to any Association office bearer or official as the ‘leader’, rather they must be referred to by their title/role. 
 
@@ -1741,6 +1761,8 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 ### 96. Maximum consecutive terms for Association office bearers and members of elected committees 
 
 1. Association office bearers are not eligible to stand for re-election to the same office-bearing position when they have filled the position for three consecutive terms. 
+
+2. Office bearers may stand for re-election beyond this limit in supplementary elections triggered when an office-bearing position returns a result of “Seek further candidates”. 
 
 
 ### 97. General fund-raising by Branches and Local Campaign Teams 
@@ -1816,56 +1838,30 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
 ### 102. Electoral Funding 
 
-1. The following rules apply to distribution of electoral funding subject to the relevant state, territory and federal laws.
+1. Prior to the start of a campaign, the Committee shall determine the allocation of electoral funds resulting from the campaign. The following rules apply to distribution of electoral funding subject to the relevant state, territory and federal laws. 
 
-   1. in the case of cash for votes system—
+   1. First, reimbursement of expenses incurred to the relevant campaigning entity if it exists and has capacity to maintain that funding. 
 
-      1. 5% for administration of Association
+   2. Second, allocation to expenses required to support any successfully elected candidate. 
 
-      2. 10% for shared election expenses
-
-      3. 40% for distributions to Branches on a per candidate basis excluding any candidates that received funding 
-
-> **Note:** i.e. if a Branch ran 1 candidate out of 10 which didn't receive funding that branch would receive 4% of the total funding available. 
-
-4. 45% to Branch / Branches (in the case of multi candidate electorate were two Branches have candidates running) responsible for covering the costs of running in that electorate that raised the electoral funding, any excess will be held to support the next election involving that electorate(s), unless that electorate(s) is/are not being contested in which case the funds can be used to support any legitimate activity of the Association or relevant Branch or Branches.
-
-2) in a cash for receipt system
-
-   1. a minimum of 45% to be made available to cover the direct costs of running in that electorate(s) that met the threshold for funding
-
-   2. the remainder to be used to cover shared costs associated with running that election campaign if allowed by law. 
-
-> **Note:** The Association should endeavour to maximise its use of the funding from cash for receipt systems without putting the Association's financial future at risk. This risk may be taken on by Branches.
+   3. Third, as agreed by the Committee. 
 
 
 ### 103. Contested electable positions
 
-1. At times electable positions will be contested by members from multiple Branches. In the case of an electable position being contested by candidates from more than one Branch the following rules will be used decide which candidates will be endorsed and in what position:
-
+1. At times multiple members of the Association will seek to contest electable positions. In this case,  the following rules will be used decide which candidates will be endorsed and in what position:
+	
 > **Note:** This is expected in the case of the top ballot position on a Federal Senate seat or State upper house seat, or in the case of a winnable single member electorate emerging.
-
-1. in the case of multi member upper house seats
-
-   1. by mutual agreement between the Branches
-
+	
+2. in the case of multi member seats
+	
+   1. by mutual agreement between the candidate nominees
+	
    2. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2). 
-
-2. in the case of multi member lower house seat or local government wards
-
-   1. by mutual agreement between the Branches
-
-   2. if only one Branch has a history of running candidates in that electorate that Branch can choose to have a successful preselected candidate(s) placed in the top position(s) on the ballot if applicable.
-
-   3. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2). 
-
-3. in the case of single member lower house seat or local government wards
-
-   1. by mutual agreement between the Branches
-
-   2. if only one Branch has a history of running candidates in the contested electorate or ward that Branch can select a candidate for formal endorsement by the Association.
-
-   3. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2). 
+	
+3. in the case of single member seats
+	
+   1. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2). 
 
 2) Where one or more Association candidates must be selected for a contested position, the election must be held as set out in Part 8-Division 1, by all the Members entitled to vote as per sub-rule (3).
 
@@ -1897,8 +1893,6 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 4. Once retirement is triggered by sub-rule (2), the person affected may run for a seat or ward other than the one from which they are retiring. 
 
 5. Elected representatives are expected to work constructively with other elected representatives of the Association, and the Association itself to achieve the purposes of the Association.
-
-> **Note:** The Association believes that there should be a limit on the length of time served by any elected representatives to any parliament or local government. 
 
 
 ### 105. Disendorsement of candidates or elected representatives 
