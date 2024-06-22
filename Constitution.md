@@ -361,25 +361,17 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ## Division 2—Disciplinary action 
 
-### 18. Grounds for taking disciplinary action 
-
-1. The Association may take disciplinary action against a Member in accordance with this Division if it is determined that the Member:
-
-   1. has failed to comply with these Rules; 
-
-   2. has violated a provision of the Code of Conduct;
-
-   3. has been referred by a registered complaint; or 
-
-   4. is subject to a successful "no confidence" motion under rule 108. 
-
-2. For a dispute raised between people within the same branch, the complainant may choose to have it investigated by their branch specific DRC or equivalent process. Regardless of outcome however, the investigation may still be taken to the DRC.
-
-Dispute Resolution Process including first and final appeal processes
-
-![](https://lh7-us.googleusercontent.com/sE39F3ntYJ61-WG7Ua3jpLNiNIy7NEVvMN4mbWsMaMPx50ya_zEwMzaS-Z2TA8F-xfZ0_xLesqn93KwXxi4Cy9bMHKv7loa6o2AEKsh5KIFis2RyBg6DYFJs2dlQodZrkocbQVTZfGyu_DKzZZ8ZWiw)****
-
-
+### 18. Code of Conduct
+	
+1. The Association will maintain a Code of Conduct which identifies and defines:
+	
+   1. standards of conduct;
+	
+   2. misconduct; and
+	
+   3. criteria for classifying a complaint as serious, or less serious.
+	
+	
 ### 19. Dispute Resolution Committee
 
 1. The Committee shall facilitate a Dispute Resolution Committee (DRC) to attend to any disciplinary matters arising (as per rule [19](https://docs.google.com/document/d/1LzWKIJCI0lTIxB0ujEdpnupZTWbIBOvTlsfcX83FQ5c/edit#heading=h.rtleyuixrsnk)), complaints or concerns of a potential breach of the Code of Conduct to determine what action, if any, should be taken or recommended to the Committee. 
@@ -399,6 +391,48 @@ Dispute Resolution Process including first and final appeal processes
    2. a proceeding to be reviewed in a process of appeal by a majoritively different committee, with one representative for informational continuity.
 
 5. In instances of possible confusion around the interpretation of this constitution, the DRC shall be invoked to function as interpreters of this document, and their decisions recorded.
+
+
+### 20. Dispute Investigation and Resolution
+	
+1. In the event of a potential breach of this Constitution or the Code of Conduct (including submission of a complaint), the Committee shall appoint an investigation officer to investigate the nature of the complaint and determine whether the matter is “serious” or “less serious” in nature. 
+	
+2. For a dispute raised between people within the same branch, the complainant may choose to have it investigated by their branch specific DRC or equivalent process. Regardless of outcome however, the investigation may still be taken to the DRC.
+	
+3. For the purpose of resolving less serious complaints, refer to the process outlined in Part 3 Division 3-Grievance Procedure, with the stipulation that the mediator must either be a member of the DRC or hold an equivalent position in a branch.
+	
+4. In the case of a serious complaint involving a potential breach of Standards the Executive will determine whether the issue is investigated by the DRC or an investigating officer who will attempt to resolve the complaint between the parties.
+	
+   1. The investigating officer should be a member of the DRC, but must at least be an equivalent position in a branch.
+	
+5. In the case of a serious complaint involving an accusation of misconduct or a breach of the Constitution, the DRC will investigate the substance of the complaint.
+	
+6. Upon investigation the DRC may proceed to order disciplinary action on appropriate grounds.
+	
+7. In matters being investigated the DRC is responsible for;
+	
+   1. determining if a complaint is to be deemed genuine or vexatious; and
+	
+   2. protecting the privacy of both the complainant and the complainee.
+	
+8. If the finding of the DRC is not unanimous, the Committee must be informed as such.
+	
+9. Where a complaint has been investigated by the DRC and the outcome is not satisfactory to the complainant, a complaint may be escalated for the consideration of the Committee.
+
+
+### 21. Grounds for taking disciplinary action 
+	
+1. The Association may take disciplinary action against a Member in accordance with this Division if it is determined that the Member:
+	
+   1. has failed to comply with these Rules; 
+	
+   2. has violated a provision of the Code of Conduct;
+	
+   3. has been referred by a registered complaint; or 
+	
+   4. is subject to a successful "no confidence" motion under rule 105. 
+	
+2. Except in cases of verifiably intentional Misconduct, as defined by the Code of Conduct, disciplinary action may not be taken without first attempting a Dispute Resolution process.
 
 
 ### 20. Notice to member 
@@ -438,7 +472,7 @@ Dispute Resolution Process including first and final appeal processes
 
       1. reprimand the Member; 
 
-      2. suspend the membership rights of the Member for a specified period; 
+      2. suspend the membership rights of the Member for a specified period not exceeding 26 weeks or the resolution of the next annual general meeting, whichever is lesser; 
 
    3. recommend that the Committee—
 
