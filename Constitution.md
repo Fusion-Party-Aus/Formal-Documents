@@ -299,15 +299,21 @@ if this is done in good faith on terms no more favourable than if the Member was
         ii. the Member has not, within 14 days of receiving that request, confirmed in writing that they wish to remain a Member. 
 
 
-### 17. Register of Members 
+### 17. Register of Members
 
-1. The Secretary must keep and maintain a Register of Members that includes— 
-    a. for each current Member— 
-        i. the Member's name; 
-        ii. the address for notice last given by the Member; 
-        iii. the date of becoming a Member; and 
-        iv) any other information determined by the Committee; 
-    b. for each former Member, the date of ceasing to be a Member. 
+1. The Secretary must keep and maintain a Register of Members that includes—
+
+    a. for each current Member—
+
+        i. the Member's name;
+
+        ii. the address for notice last given by the Member;
+
+        iii. the date of becoming a Member; and
+
+        iv. any other information determined by the Committee;
+
+    b. for each former Member, the date of ceasing to be a Member.
 
 
 ## Division 2—Disciplinary action 
