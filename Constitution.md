@@ -36,7 +36,7 @@ RULES OF ASSOCIATION for 
     b) advance any shared policy or platform agreed to by the membership.
     c) facilitate the advancement of policy supported by non-conflicting branch values with branch backing.
     d) achieve the above goals through 
-        i) public education and political and non-political campaigning, including running candidates for election at all levels of government, and 
+       i) public education and political and non-political campaigning, including running candidates for election at all levels of government, and 
         ii) providing an organisational vehicle for groups of like minded members to organise and subsequently advocate for and advance focus areas of special interest, insofar as this does not conflict with the value framework.
 
 2. To further these purposes, the Association must develop capacity in the following areas— 
@@ -164,10 +164,10 @@ In these Rules— 
 
 4. The Association may claim sole right to register in any electoral jurisdiction to the exclusion of an existing registered Branch.
     a) When claiming this right, the Association must;
-        i) Provide formal notice to the Branch that is currently registered in the applicable jurisdiction, and
+       i) Provide formal notice to the Branch that is currently registered in the applicable jurisdiction, and
         ii) Provide formal notice to the Association’s Members.
     b) Upon receiving formal notice from the Association, a Branch registered in the applicable electoral jurisdiction must;
-        i) Provide notice to its members of the notice given, should those members be managed separately to those of the Association.
+       i) Provide notice to its members of the notice given, should those members be managed separately to those of the Association.
         ii) Take formal action to either transfer or revoke their registration, as applicable, within 60 days of their receipt of the notice.
 
 
@@ -295,7 +295,7 @@ if this is done in good faith on terms no more favourable than if the Member was
     a) the Member's annual subscription is more than 12 months in arrears; or 
 
     b) where no annual subscription is payable— 
-        i) the Secretary has made a written request to the Member to confirm that he or she wishes to remain a Member; and 
+       i) the Secretary has made a written request to the Member to confirm that he or she wishes to remain a Member; and 
         ii) the Member has not, within 14 days of receiving that request, confirmed in writing that they wish to remain a Member. 
 
 
@@ -303,7 +303,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 1. The Secretary must keep and maintain a Register of Members that includes— 
     a) for each current Member— 
-        i) the Member's name; 
+       i) the Member's name; 
         ii) the address for notice last given by the Member; 
         iii) the date of becoming a Member; and 
         iv) any other information determined by the Committee; 
@@ -379,7 +379,7 @@ if this is done in good faith on terms no more favourable than if the Member was
     b) stating the grounds for the proposed disciplinary action; 
     c) specifying the date, place and time of the meeting at which the DRC intends to consider the disciplinary action (the disciplinary meeting); 
     d) advising the Member that they may do one or both of the following— 
-        i) attend the disciplinary meeting and address the DRC at that meeting; or 
+       i) attend the disciplinary meeting and address the DRC at that meeting; or 
         ii) give a written statement to the DRC at any time before the disciplinary meeting; and 
     e) setting out the appeal rights of the Member under rule 23. 
 
@@ -395,10 +395,10 @@ if this is done in good faith on terms no more favourable than if the Member was
 2. After complying with sub-rule (1), the DRC may— 
     a) take no further action against the Member; or 
     b) subject to sub-rule (3)— 
-        i) reprimand the Member; 
+       i) reprimand the Member; 
         ii) suspend the membership rights of the Member for a specified period not exceeding 26 weeks or the resolution of the next annual general meeting, whichever is lesser; 
     c) recommend that the Committee—
-        i) expel the Member from the Association; 
+       i) expel the Member from the Association; 
         ii) disendorse the Member as a candidate; or 
         iii) disendorse the Member as an elected representative of the Association. 
 
@@ -445,7 +445,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 4. Notice of the disciplinary appeal meeting must be given to each Member of the Association who is entitled to vote as soon as practicable and must— 
     a) specify the date, time and place of the meeting; and 
     b) state— 
-        i) the name of the person against whom the disciplinary action has been taken; 
+       i) the name of the person against whom the disciplinary action has been taken; 
         ii) the grounds for taking that action; and 
         iii) that at the disciplinary appeal meeting the Members present must vote on whether the decision to suspend or expel the person should be upheld or revoked. 
 
@@ -496,7 +496,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 2. The mediator must be— 
     a) a person chosen by agreement between the parties; or 
     b) in the absence of agreement— 
-        i) if the dispute is between a Member and either another Member or a unit of the Association other than the Committee—a person appointed by the Committee; 
+       i) if the dispute is between a Member and either another Member or a unit of the Association other than the Committee—a person appointed by the Committee; 
         ii) if the dispute is between units of the Association other than the Committee—a person appointed by the Committee; or 
         iii) if one party to the dispute is either a Member or a unit of the Association and the other party is either the Committee or the Association—a person appointed or employed by the Dispute Settlement Centre of Victoria. 
 
@@ -535,7 +535,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 4. The ordinary business of the annual general meeting is as follows— 
     a) to confirm the minutes of the previous annual general meeting and of any special general meeting held immediately prior to the annual general meeting; 
     b) to receive and consider— 
-        i) i. the annual report of the Committee on the activities of the Association during the preceding financial year; and 
+       i) i. the annual report of the Committee on the activities of the Association during the preceding financial year; and 
         ii) ii. the financial statements of the Association for the preceding financial year submitted by the Committee in accordance with Part 7 of the Act; 
     c) to elect the members of the Committee
     d) to set, confirm or vary the amounts (if any) of the annual subscription and joining fee for Members, informed by any recommendation of the Committee in subrule 13(1)(a); and
@@ -587,7 +587,7 @@ if this is done in good faith on terms no more favourable than if the Member was
     a) specify the date, time, expected duration and place of the meeting; 
     b) indicate the general nature of each item of business to be considered at the meeting; 
     c) if a special resolution is to be proposed— 
-        i) state in full the proposed resolution; and 
+       i) state in full the proposed resolution; and 
         ii) state the intention to propose the resolution as a special resolution; and 
     d) comply with sub-rule [35](5).
 
@@ -833,7 +833,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 2. The Registered Officer must— 
     a) fulfil the relevant requirements as outlined in the \[Federal] Electoral Act on behalf of the Association; 
     b) These include but are not limited to:
-        i) nominate the party’s endorsed candidates to the AEC;
+       i) nominate the party’s endorsed candidates to the AEC;
         ii) nominate the party’s registered name or the party’s registered abbreviation or logo to be printed on ballot papers to the AEC;
         iii) receive any formal notices about party registration from the AEC; and
         iv) appoint deputy registered officers to assist in the nomination process
@@ -1173,7 +1173,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
     b) by sending the notice by post to the registered address; 
     c) by leaving the notice at the registered address; or 
     d) if the Committee determines that it is appropriate in the circumstances— 
-        i) by email to the email address of the Association or the Secretary; or 
+       i) by email to the email address of the Association or the Secretary; or 
         ii) by facsimile transmission to the facsimile number of the Association. 
 
 
@@ -1364,7 +1364,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
     f) expand the profile of the Association; 
     g) expand the Membership of the Association; 
     h) to develop policy for implementation at federal, state, and local government levels.
-    i) to preselect effective candidates to run at federal, state, and local government levels.
+   i) to preselect effective candidates to run at federal, state, and local government levels.
 
 > **Note:** There is no restriction on more than one ****Branch running a candidate in the same electorate / ward or equivalent in these rules. 
     j) allocate preferences in electorates / ward or equivalent where Branch candidates are running.
@@ -1386,7 +1386,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 6. Applications to form a Branch:
     a) Applications are submitted in writing to the Committee by the prospective Branch.
     b) Application must include:
-        i) the minutes of the meeting where the prospective Branch members voted to form a Branch of the Association.
+       i) the minutes of the meeting where the prospective Branch members voted to form a Branch of the Association.
         ii) the minutes of the meeting where the prospective Branch members agreed to the purposes of the Association as per sub rule (4).
         iii) a list of current members of the prospective Branch.
         iv) a name and contact details for a person nominated by the prospective Branch to act as liaison during the application process.
@@ -1396,7 +1396,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
     e) The Committee must notify the prospective Branch in writing of its decision as soon as practicable after the decision is made. 
     f) No reason need be given for the rejection of an application. 
     g) If accepted, the new Branch must provide:
-        i) a list of members with information that allows registration of a party federally and in the relevant state as soon as practicable if they have not already done so; and
+       i) a list of members with information that allows registration of a party federally and in the relevant state as soon as practicable if they have not already done so; and
         ii) nominate a Branch representative to sit on the Committee.  
 
 7. Governance of Branches:
