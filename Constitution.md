@@ -35,31 +35,31 @@ RULES OF ASSOCIATION for 
 
    a) enable its membership to register as a formal political party at federal, state, territory, and local government levels. 
 
-   2. advance any shared policy or platform agreed to by the membership.
+   b) advance any shared policy or platform agreed to by the membership.
 
-   3. facilitate the advancement of policy supported by non-conflicting branch values with branch backing.
+   c) facilitate the advancement of policy supported by non-conflicting branch values with branch backing.
 
-   4. achieve the above goals through 
+   d) achieve the above goals through 
 
       i) public education and political and non-political campaigning, including running candidates for election at all levels of government, and 
 
-      2. providing an organisational vehicle for groups of like minded members to organise and subsequently advocate for and advance focus areas of special interest, insofar as this does not conflict with the value framework.
+      ii) providing an organisational vehicle for groups of like minded members to organise and subsequently advocate for and advance focus areas of special interest, insofar as this does not conflict with the value framework.
 
 2. To further these purposes, the Association must develop capacity in the following areas— 
 
    a) establishment of its organisational elements; 
 
-   2. ongoing organisational management; 
+   b) ongoing organisational management; 
 
-   3. managing formal registration as a political party federally and in other jurisdictions of Australia as appropriate;
+   c) managing formal registration as a political party federally and in other jurisdictions of Australia as appropriate;
 
-   4. election campaigning;
+   d) election campaigning;
 
-   5. community mobilisation;
+   e) community mobilisation;
 
-   6. issue based campaigning; and 
+   f) issue based campaigning; and 
 
-   7. providing the organisational vehicle that can coordinate and facilitate the above on behalf of the Association's Branches.
+   g) providing the organisational vehicle that can coordinate and facilitate the above on behalf of the Association's Branches.
 
 
 ### 3. Values
@@ -70,7 +70,7 @@ RULES OF ASSOCIATION for 
 
    a) materially align with the framework of the Association,
 
-   2. are not shown to be in material conflict with the framework of the Association.
+   b) are not shown to be in material conflict with the framework of the Association.
 
 3. Changing the value framework should not be undertaken lightly. Undertaking a review of the value framework must be the result of a decision of the committee identifying a capacity in which the framework is insufficient for, or in conflict with, the needs and direction of the Association.
 
@@ -84,7 +84,7 @@ RULES OF ASSOCIATION for 
 
    a) the branch attends to reviewing it within a period of not greater than 3 months,
 
-   2. the branch is capable of fulfilling a quorum for the decision according to their internal processes within the period in question.
+   b) the branch is capable of fulfilling a quorum for the decision according to their internal processes within the period in question.
 
 7. The inability of a branch to attend to the matter within the required timeframe may not block the revision of the value framework, but the association is responsible for taking reasonable steps to ensure that they do not create a material conflict with a framework of the branch if it maintains one. 
 
@@ -171,19 +171,19 @@ In these Rules— 
 
    a) acquire, hold and dispose of real or personal property; 
 
-   2. open and operate accounts with financial institutions; 
+   b) open and operate accounts with financial institutions; 
 
-   3. invest its money in any security in which trust monies may lawfully be invested; 
+   c) invest its money in any security in which trust monies may lawfully be invested; 
 
-   4. raise and borrow money on any terms and in any manner as it thinks fit; 
+   d) raise and borrow money on any terms and in any manner as it thinks fit; 
 
-   5. secure the repayment of money raised or borrowed, or the payment of a debt or liability; 
+   e) secure the repayment of money raised or borrowed, or the payment of a debt or liability; 
 
-   6. appoint agents to transact business on its behalf; 
+   f) appoint agents to transact business on its behalf; 
 
-   7. enter into any other contract it considers necessary or desirable. 
+   g) enter into any other contract it considers necessary or desirable. 
 
-   8. receive lawful gifts, subject to State and Commonwealth laws for registered political parties.
+   h) receive lawful gifts, subject to State and Commonwealth laws for registered political parties.
 
 3. The Association may only exercise its powers and use its income and assets (including any surplus) for its purposes.
 
@@ -193,13 +193,13 @@ In these Rules— 
 
       i) Provide formal notice to the Branch that is currently registered in the applicable jurisdiction, and
 
-      2. Provide formal notice to the Association’s Members.
+      ii) Provide formal notice to the Association’s Members.
 
-   2. Upon receiving formal notice from the Association, a Branch registered in the applicable electoral jurisdiction must;
+   b) Upon receiving formal notice from the Association, a Branch registered in the applicable electoral jurisdiction must;
 
       i) Provide notice to its members of the notice given, should those members be managed separately to those of the Association.
 
-      2. Take formal action to either transfer or revoke their registration, as applicable, within 60 days of their receipt of the notice.
+      ii) Take formal action to either transfer or revoke their registration, as applicable, within 60 days of their receipt of the notice.
 
 
 ### 7. Not for profit organisation
@@ -210,7 +210,7 @@ In these Rules— 
 
    a) reimbursement for expenses properly incurred by the Member; or 
 
-   2. for goods or services provided by the Member— 
+   b) for goods or services provided by the Member— 
 
 if this is done in good faith on terms no more favourable than if the Member was not a Member.
 
@@ -234,11 +234,11 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) supports the purposes of the Association; 
 
-   2. is not a member of another registered political party; 
+   b) is not a member of another registered political party; 
 
-   3. is 16 or more years old; and
+   c) is 16 or more years old; and
 
-   4. has not been previously expelled by the Association.
+   d) has not been previously expelled by the Association.
 
 
 ### 10. Application for membership 
@@ -247,17 +247,17 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) wishes to become a Member of the Association; 
 
-   2. supports the purposes of the Association; and 
+   b) supports the purposes of the Association; and 
 
-   3. agrees to abide by the Code of Conduct; and
+   c) agrees to abide by the Code of Conduct; and
 
-   4. agrees to comply with these Rules.
+   d) agrees to comply with these Rules.
 
 2. The application— 
 
    a) must be signed by the applicant if submitted in hard copy; or 
 
-   2. may be submitted electronically. 
+   b) may be submitted electronically. 
 
 > **Note:** The joining fee is the fee (if any) determined by the Association under sub-rules [13(1)](https://docs.google.com/document/d/1LzWKIJCI0lTIxB0ujEdpnupZTWbIBOvTlsfcX83FQ5c/edit#heading=h.uko9jjgjeuqt) and [31(4)(d)](https://docs.google.com/document/d/1LzWKIJCI0lTIxB0ujEdpnupZTWbIBOvTlsfcX83FQ5c/edit#heading=h.90csaa3lyz0f). 
 
@@ -285,7 +285,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) the resolution to accept the membership must be recorded in the minutes of the Committee meeting; and 
 
-   2. the Secretary must, as soon as practicable, enter the name and address of the new Member, and the date of becoming a Member, in the Register of Members. 
+   b) the Secretary must, as soon as practicable, enter the name and address of the new Member, and the date of becoming a Member, in the Register of Members. 
 
 2. Subject to sub-rule [14(1)(a)], a person becomes a Member of the Association and is entitled to exercise their rights of membership, including those defined in sub-rule [14(2)], from the date on which they applied to join the Branch or the Association.
 
@@ -296,15 +296,15 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) recommends to the annual general meeting the amount of the annual subscriptions (if any) and joining fees (if any) for the following financial year; and 
 
-   2. determines the date for payment of the annual subscription.
+   b) determines the date for payment of the annual subscription.
 
 2. The Committee may determine that any new Member who joins after the start of a financial year must, for that financial year, pay a fee equal to— 
 
    a) the full annual subscription; 
 
-   2. a pro rata annual subscription based on the remaining part of the financial year; or 
+   b) a pro rata annual subscription based on the remaining part of the financial year; or 
 
-   3. a fixed amount determined from time to time by the Committee that is equal to or less than the annual subscription. 
+   c) a fixed amount determined from time to time by the Committee that is equal to or less than the annual subscription. 
 
 3. The rights (including the right to vote) of a Member who has not paid the annual subscription by the due date are suspended until the subscription is paid. 
 
@@ -315,23 +315,23 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) more than 4 weeks have passed since they applied to become a Member of the Association; and 
 
-   2. the Committee has accepted their membership; and
+   b) the Committee has accepted their membership; and
 
-   3. the Member's membership rights are not suspended for any reason. 
+   c) the Member's membership rights are not suspended for any reason. 
 
 2. A Member of the Association who is entitled to vote has the right to— 
 
    a) receive notice of general meetings and of proposed special resolutions in the manner and time prescribed by these Rules; 
 
-   2. submit items of business for consideration at a general meeting; 
+   b) submit items of business for consideration at a general meeting; 
 
-   3. attend and be heard at general meetings; 
+   c) attend and be heard at general meetings; 
 
-   4. participate in decision making and vote at a general meeting; 
+   d) participate in decision making and vote at a general meeting; 
 
-   5. have access to the minutes of general meetings and other documents of the Association as provided under rule [79]; and 
+   e) have access to the minutes of general meetings and other documents of the Association as provided under rule [79]; and 
 
-   6. inspect the Register of Members. 
+   f) inspect the Register of Members. 
 
 > **Note:** Under section 59 of the Act, access to the personal information of a person recorded in the Register of Members may be restricted in certain circumstances though a request may be made to the secretary of the Association. Section 58 of the Act provides that it is an offence to make improper use of information about a person obtained from the Register of Members. 
 
@@ -357,7 +357,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) the Secretary has made a written request to the Member to confirm that he or she wishes to remain a Member; and 
 
-   2. the Member has not, within 14 days of receiving that request, confirmed in writing that they wish to remain a Member. 
+   b) the Member has not, within 14 days of receiving that request, confirmed in writing that they wish to remain a Member. 
 
 
 ### 17. Register of Members 
@@ -368,13 +368,13 @@ if this is done in good faith on terms no more favourable than if the Member was
 
       i) the Member's name; 
 
-      2. the address for notice last given by the Member; 
+      ii) the address for notice last given by the Member; 
 
-      3. the date of becoming a Member; and 
+      iii) the date of becoming a Member; and 
 
-      4. any other information determined by the Committee; 
+      iv) any other information determined by the Committee; 
 
-   2. for each former Member, the date of ceasing to be a Member. 
+   b) for each former Member, the date of ceasing to be a Member. 
 
 
 ## Division 2—Disciplinary action 
@@ -385,9 +385,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) standards of conduct;
 
-   2. misconduct; and
+   b) misconduct; and
 
-   3. criteria for classifying a complaint as serious, or less serious.
+   c) criteria for classifying a complaint as serious, or less serious.
 
 
 ### 19. Dispute Resolution Committee
@@ -398,7 +398,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) are democratically elected by the membership; and
 
-   2. hold no other office on the Committee, or named position appointed by the Committee, or equivalent office within a branch of the Association, except for other elected positions solely existing for the purpose of providing dispute resolution capacity;
+   b) hold no other office on the Committee, or named position appointed by the Committee, or equivalent office within a branch of the Association, except for other elected positions solely existing for the purpose of providing dispute resolution capacity;
 
 3. Any member elected to the DRC shall as soon as practicable familiarise themselves with Division 2 of the constitution. 
 
@@ -406,7 +406,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) the recusement of a DRC member who may be considered to foster bias or possess a conflict of interest in a particular case;
 
-   2. a proceeding to be reviewed in a process of appeal by a majoritively different committee, with one representative for informational continuity.
+   b) a proceeding to be reviewed in a process of appeal by a majoritively different committee, with one representative for informational continuity.
 
 5. In instances of possible confusion around the interpretation of this constitution, the DRC shall be invoked to function as interpreters of this document, and their decisions recorded.
 
@@ -431,7 +431,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) determining if a complaint is to be deemed genuine or vexatious; and
 
-   2. protecting the privacy of both the complainant and the complainee.
+   b) protecting the privacy of both the complainant and the complainee.
 
 8. If the finding of the DRC is not unanimous, the Committee must be informed as such.
 
@@ -444,11 +444,11 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) has failed to comply with these Rules; 
 
-   2. has violated a provision of the Code of Conduct;
+   b) has violated a provision of the Code of Conduct;
 
-   3. has been referred by a registered complaint; or 
+   c) has been referred by a registered complaint; or 
 
-   4. is subject to a successful "no confidence" motion under rule 105. 
+   d) is subject to a successful "no confidence" motion under rule 105. 
 
 2. Except in cases of verifiably intentional Misconduct, as defined by the Code of Conduct, disciplinary action may not be taken without first attempting a Dispute Resolution process.
 
@@ -459,17 +459,17 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) stating that the Association proposes to take disciplinary action against the Member; 
 
-   2. stating the grounds for the proposed disciplinary action; 
+   b) stating the grounds for the proposed disciplinary action; 
 
-   3. specifying the date, place and time of the meeting at which the DRC intends to consider the disciplinary action (the disciplinary meeting); 
+   c) specifying the date, place and time of the meeting at which the DRC intends to consider the disciplinary action (the disciplinary meeting); 
 
-   4. advising the Member that they may do one or both of the following— 
+   d) advising the Member that they may do one or both of the following— 
 
       i) attend the disciplinary meeting and address the DRC at that meeting; or 
 
-      2. give a written statement to the DRC at any time before the disciplinary meeting; and 
+      ii) give a written statement to the DRC at any time before the disciplinary meeting; and 
 
-   5. setting out the appeal rights of the Member under rule 23. 
+   e) setting out the appeal rights of the Member under rule 23. 
 
 2. The notice must be given no earlier than 28 days, and no later than 14 days, before the disciplinary meeting is held. 
 
@@ -480,25 +480,25 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) give the Member an opportunity to be heard; and 
 
-   2. consider any written statement submitted by the Member. 
+   b) consider any written statement submitted by the Member. 
 
 2. After complying with sub-rule (1), the DRC may— 
 
    a) take no further action against the Member; or 
 
-   2. subject to sub-rule (3)— 
+   b) subject to sub-rule (3)— 
 
       i) reprimand the Member; 
 
-      2. suspend the membership rights of the Member for a specified period not exceeding 26 weeks or the resolution of the next annual general meeting, whichever is lesser; 
+      ii) suspend the membership rights of the Member for a specified period not exceeding 26 weeks or the resolution of the next annual general meeting, whichever is lesser; 
 
-   3. recommend that the Committee—
+   c) recommend that the Committee—
 
       i) expel the Member from the Association; 
 
-      2. disendorse the Member as a candidate; or 
+      ii) disendorse the Member as a candidate; or 
 
-      3. disendorse the Member as an elected representative of the Association. 
+      iii) disendorse the Member as an elected representative of the Association. 
 
 3. The DRC may not fine the Member. 
 
@@ -517,11 +517,11 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) a member of the Committee, 
 
-   2. a member of the DRC, 
+   b) a member of the DRC, 
 
-   3. an approved candidate of the Party, or 
+   c) an approved candidate of the Party, or 
 
-   4. an elected representative of the Party.
+   d) an elected representative of the Party.
 
 2. The sponsoring member for the appeal must submit to the DRC the additional considerations to be addressed in the appeal.
 
@@ -542,7 +542,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) to the DRC immediately after the vote to suspend or expel the person is taken; or 
 
-   2. to the Secretary not later than 48 hours after notification of the member according to 22(6). 
+   b) to the Secretary not later than 48 hours after notification of the member according to 22(6). 
 
 3. If a person has given notice under sub-rule (2), a disciplinary appeal meeting must be convened by the Committee as soon as practicable, but in any event not later than 21 days after the notice is received. 
 
@@ -550,13 +550,13 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) specify the date, time and place of the meeting; and 
 
-   2. state— 
+   b) state— 
 
       i) the name of the person against whom the disciplinary action has been taken; 
 
-      2. the grounds for taking that action; and 
+      ii) the grounds for taking that action; and 
 
-      3. that at the disciplinary appeal meeting the Members present must vote on whether the decision to suspend or expel the person should be upheld or revoked. 
+      iii) that at the disciplinary appeal meeting the Members present must vote on whether the decision to suspend or expel the person should be upheld or revoked. 
 
 
 ### 24. Conduct of disciplinary appeal meeting 
@@ -565,9 +565,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) no business other than the question of the appeal may be conducted; 
 
-   2. the Committee must state the grounds for suspending or expelling the Member and the reasons for taking that action; and 
+   b) the Committee must state the grounds for suspending or expelling the Member and the reasons for taking that action; and 
 
-   3. the person whose membership of the Association has been suspended or who has been expelled must be given an opportunity to be heard. 
+   c) the person whose membership of the Association has been suspended or who has been expelled must be given an opportunity to be heard. 
 
 2. After complying with sub-rule (1), the Members present and entitled to vote at the meeting must vote by secret ballot on the question of whether the decision to suspend or expel the person should be upheld or revoked. 
 
@@ -588,11 +588,11 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) a Member and another Member; 
 
-   2. a Member and one of the units of the Association; 
+   b) a Member and one of the units of the Association; 
 
-   3. one unit of the Association and another unit of the Association; or 
+   c) one unit of the Association and another unit of the Association; or 
 
-   4. a Member and the Association. 
+   d) a Member and the Association. 
 
 2. A Member must not initiate a grievance procedure in relation to a matter that is the subject of a disciplinary procedure until the disciplinary procedure has been completed. 
 
@@ -608,27 +608,27 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) notify the Committee of the dispute; 
 
-   2. agree to or request the appointment of a mediator; and 
+   b) agree to or request the appointment of a mediator; and 
 
-   3. attempt in good faith to settle the dispute by mediation. 
+   c) attempt in good faith to settle the dispute by mediation. 
 
 2. The mediator must be— 
 
    a) a person chosen by agreement between the parties; or 
 
-   2. in the absence of agreement— 
+   b) in the absence of agreement— 
 
       i) if the dispute is between a Member and either another Member or a unit of the Association other than the Committee—a person appointed by the Committee; 
 
-      2. if the dispute is between units of the Association other than the Committee—a person appointed by the Committee; or 
+      ii) if the dispute is between units of the Association other than the Committee—a person appointed by the Committee; or 
 
-      3. if one party to the dispute is either a Member or a unit of the Association and the other party is either the Committee or the Association—a person appointed or employed by the Dispute Settlement Centre of Victoria. 
+      iii) if one party to the dispute is either a Member or a unit of the Association and the other party is either the Committee or the Association—a person appointed or employed by the Dispute Settlement Centre of Victoria. 
 
 3. A mediator appointed by the Committee may be a Member or former Member of the Association but in any case must not be a person who— 
 
    a) has a personal interest in the dispute; or 
 
-   2. is biassed in favour of or against any party. 
+   b) is biassed in favour of or against any party. 
 
 
 ### 28. Mediation process 
@@ -637,9 +637,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) give each party every opportunity to be heard; 
 
-   2. allow due consideration by all parties of any written statement submitted by any party; and 
+   b) allow due consideration by all parties of any written statement submitted by any party; and 
 
-   3. ensure that natural justice is accorded to the parties throughout the mediation process. 
+   c) ensure that natural justice is accorded to the parties throughout the mediation process. 
 
 5. The mediator must not determine the dispute. 
 
@@ -665,17 +665,17 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) to confirm the minutes of the previous annual general meeting and of any special general meeting held immediately prior to the annual general meeting; 
 
-   2. to receive and consider— 
+   b) to receive and consider— 
 
       i) i. the annual report of the Committee on the activities of the Association during the preceding financial year; and 
 
-      2. ii. the financial statements of the Association for the preceding financial year submitted by the Committee in accordance with Part 7 of the Act; 
+      ii) ii. the financial statements of the Association for the preceding financial year submitted by the Committee in accordance with Part 7 of the Act; 
 
-   3. to elect the members of the Committee
+   c) to elect the members of the Committee
 
-   4. to set, confirm or vary the amounts (if any) of the annual subscription and joining fee for Members, informed by any recommendation of the Committee in subrule 13(1)(a); and
+   d) to set, confirm or vary the amounts (if any) of the annual subscription and joining fee for Members, informed by any recommendation of the Committee in subrule 13(1)(a); and
 
-   5. to endorse or reject any policy implementations adopted by the Association since the previous annual general meeting. 
+   e) to endorse or reject any policy implementations adopted by the Association since the previous annual general meeting. 
 
 5. The annual general meeting may also conduct any other business of which notice has been given in accordance with these Rules. 
 
@@ -703,11 +703,11 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) be in writing; 
 
-   2. state the business to be considered at the meeting and any resolutions to be proposed; 
+   b) state the business to be considered at the meeting and any resolutions to be proposed; 
 
-   3. include the names and signatures of the Members requesting the meeting; and 
+   c) include the names and signatures of the Members requesting the meeting; and 
 
-   4. be given to the Secretary. 
+   d) be given to the Secretary. 
 
 3. If the Committee does not convene a special general meeting within one month after the date on which the request is made, the Members making the request (or any of them) may convene the special general meeting. 
 
@@ -715,7 +715,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) must be held within 3 months after the date on which the original request was made; and 
 
-   2. may only consider the business stated in that request. 
+   b) may only consider the business stated in that request. 
 
 5. The Association must reimburse all reasonable expenses incurred by the Members convening a special general meeting under sub-rule (3). 
 
@@ -726,21 +726,21 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) at least 21 days' notice of a general meeting if a special resolution is to be proposed at the meeting; or 
 
-   2. at least 14 days' notice of a general meeting in any other case. 
+   b) at least 14 days' notice of a general meeting in any other case. 
 
 2. The notice must— 
 
    a) specify the date, time, expected duration and place of the meeting; 
 
-   2. indicate the general nature of each item of business to be considered at the meeting; 
+   b) indicate the general nature of each item of business to be considered at the meeting; 
 
-   3. if a special resolution is to be proposed— 
+   c) if a special resolution is to be proposed— 
 
       i) state in full the proposed resolution; and 
 
-      2. state the intention to propose the resolution as a special resolution; and 
+      ii) state the intention to propose the resolution as a special resolution; and 
 
-   4. comply with sub-rule [35](5).
+   d) comply with sub-rule [35](5).
 
 3. This rule does not apply to a disciplinary appeal meeting. 
 
@@ -761,7 +761,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) state that the Member may appoint another Member as a proxy for the meeting; and 
 
-   2. include a copy of any form that the Committee has approved for the appointment of a proxy. 
+   b) include a copy of any form that the Committee has approved for the appointment of a proxy. 
 
 6. A form appointing a proxy must be given to the chairperson of the meeting before or at the commencement of the meeting. 
 
@@ -793,7 +793,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) the meeting must be adjourned to a date not more than 21 days after the adjournment; and 
 
-   2. notice of the date, time and place to which the meeting is adjourned must be given at the meeting and confirmed by written notice given to all Members as soon as practicable after the meeting. 
+   b) notice of the date, time and place to which the meeting is adjourned must be given at the meeting and confirmed by written notice given to all Members as soon as practicable after the meeting. 
 
 4) If a quorum is not present within 30 minutes after the time to which a general meeting has been adjourned under sub-rule (3)(b), the Members present at the meeting (if not fewer than 3) may proceed with the business of the meeting as if a quorum were present. 
 
@@ -806,7 +806,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) if there is insufficient time to deal with the business at hand; or 
 
-   2. to give the Members more time to consider an item of business. 
+   b) to give the Members more time to consider an item of business. 
 
 > **Example:** The Members may wish to have more time to examine the financial statements submitted by the Committee at an annual general meeting. 
 
@@ -821,9 +821,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) subject to sub-rule (3), each Member who is entitled to vote has one vote; 
 
-   2. Members may vote personally or by proxy; and 
+   b) Members may vote personally or by proxy; and 
 
-   3. except in the case of a special resolution, the question must be decided on a majority of votes. 
+   c) except in the case of a special resolution, the question must be decided on a majority of votes. 
 
 2. If votes are divided equally on a question, the chairperson of the meeting has a second or casting vote. 
 
@@ -845,11 +845,11 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a) carried; 
 
-   2. carried unanimously; 
+   b) carried unanimously; 
 
-   3. carried by a particular majority; or 
+   c) carried by a particular majority; or 
 
-   4. lost— 
+   d) lost— 
 
 and an entry to that effect in the minutes of the meeting is conclusive proof of that fact. 
 
@@ -857,7 +857,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) the poll must be taken at the meeting in the manner determined by the chairperson of the meeting; and 
 
-   2. the chairperson must declare the result of the resolution on the basis of the poll. 
+   b) the chairperson must declare the result of the resolution on the basis of the poll. 
 
 3. A poll demanded on the election of the chairperson or on a question of an adjournment must be taken immediately. 
 
@@ -874,13 +874,13 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) the names of the Members attending the meeting; 
 
-   2. proxy forms given to the chairperson of the meeting under sub-rule [35](6); 
+   b) proxy forms given to the chairperson of the meeting under sub-rule [35](6); 
 
-   3. the financial statements submitted to the Members in accordance with sub-rule [31](4)(b)(ii); 
+   c) the financial statements submitted to the Members in accordance with sub-rule [31](4)(b)(ii); 
 
-   4. the certificate signed by two Committee members certifying that the financial statements give a true and fair view of the financial position and performance of the Association; and 
+   d) the certificate signed by two Committee members certifying that the financial statements give a true and fair view of the financial position and performance of the Association; and 
 
-   5. any audited accounts and auditor's report or report of a review accompanying the financial statements that are required under the Act. 
+   e) any audited accounts and auditor's report or report of a review accompanying the financial statements that are required under the Act. 
 
 
 # PART 5—THE COMMITTEE 
@@ -897,7 +897,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) appoint and remove staff; and 
 
-   2. establish subcommittees and units with terms of reference and membership it considers appropriate. 
+   b) establish subcommittees and units with terms of reference and membership it considers appropriate. 
 
 
 ### 43. Delegation 
@@ -906,9 +906,9 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) this power of delegation; 
 
-   2. a duty imposed on the Committee or the officer bearer by the Act or any other law; or 
+   b) a duty imposed on the Committee or the officer bearer by the Act or any other law; or 
 
-   3. the responsibility for oversight of the delegated powers and functions. 
+   c) the responsibility for oversight of the delegated powers and functions. 
 
 2. The delegation must be in writing and may be subject to the conditions and limitations the Committee and, where appropriate, the office bearer considers appropriate. 
 
@@ -927,17 +927,17 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) a Convener; 
 
-   2. a President; 
+   b) a President; 
 
-   3. a Secretary; 
+   c) a Secretary; 
 
-   4. a Treasurer; 
+   d) a Treasurer; 
 
-   5. a National Campaigns Coordinator; 
+   e) a National Campaigns Coordinator; 
 
-   6. a Registered officer;
+   f) a Registered officer;
 
-   7. up to one Branch Representative per branch noting sub clause [45](1)(j)
+   g) up to one Branch Representative per branch noting sub clause [45](1)(j)
 
 > **Note:** The Association and its members where possible should seek to ensure the Committee reflects the various Branches in a proportional manner.  
 
@@ -954,13 +954,13 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) in good faith in the best interests of the Association; and 
 
-   2. for a proper purpose. 
+   b) for a proper purpose. 
 
 5. Committee members and former Committee members must not make improper use of— 
 
    a) their position; or 
 
-   2. information acquired by virtue of holding their position— so as to gain an advantage for themselves or any other person or to cause detriment to the Association. 
+   b) information acquired by virtue of holding their position— so as to gain an advantage for themselves or any other person or to cause detriment to the Association. 
 
 > **Note:** See also Division 3 of Part 6 of the Act which sets out the general duties of the office holders of an incorporated association. 
 
@@ -975,7 +975,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) in the case of a general meeting—a Member elected by the other Members present; or 
 
-   2. in the case of a Committee meeting—a Committee member elected by the other Committee members present. 
+   b) in the case of a Committee meeting—a Committee member elected by the other Committee members present. 
 
 
 ### 47. Secretary
@@ -988,13 +988,13 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) maintain the Register of Members in accordance with rule [18]; 
 
-   2. keep custody of all books, documents, and securities of the Association in accordance with rules 76 and 79, except for the financial records referred to in sub-rule 75(3); 
+   b) keep custody of all books, documents, and securities of the Association in accordance with rules 76 and 79, except for the financial records referred to in sub-rule 75(3); 
 
-   3. subject to the Act and these Rules, provide Members with access to the Register of Members, the minutes of general meetings and other books and documents; 
+   c) subject to the Act and these Rules, provide Members with access to the Register of Members, the minutes of general meetings and other books and documents; 
 
-   4. undertake the day to day administration and correspondence of the Association; and 
+   d) undertake the day to day administration and correspondence of the Association; and 
 
-   5. perform any other duty or function imposed on the Secretary by these Rules. 
+   e) perform any other duty or function imposed on the Secretary by these Rules. 
 
 3. The Secretary must give to the Registrar notice of their appointment within 14 days after the appointment. 
 
@@ -1005,23 +1005,23 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) develop and oversee the application of the Association's system of financial management to ensure that financial probity and accountability is assured; 
 
-   2. receive all moneys paid to or received by the Association and issue receipts for those moneys in the name of the Association; 
+   b) receive all moneys paid to or received by the Association and issue receipts for those moneys in the name of the Association; 
 
-   3. ensure that all moneys received are paid into the account of the Association within 15 working days after receipt;
+   c) ensure that all moneys received are paid into the account of the Association within 15 working days after receipt;
 
-   4. make any payments authorised by the Committee or by a general meeting of the Association from the Association's funds; 
+   d) make any payments authorised by the Committee or by a general meeting of the Association from the Association's funds; 
 
-   5. ensure that cheques are signed and account withdrawals are authorised by at least 2 Committee members or, where expenditures are managed by another unit of the Association, by 2 equivalent office bearers from that unit; and 
+   e) ensure that cheques are signed and account withdrawals are authorised by at least 2 Committee members or, where expenditures are managed by another unit of the Association, by 2 equivalent office bearers from that unit; and 
 
-   6. act as the Party Agent as defined by Section 288 of the \[Federal] Electoral Act on behalf of the Association unless the Committee chooses to appoint another member as Party Agent. The party agent is responsible for lodging the party’s annual financial disclosure return to the AEC.
+   f) act as the Party Agent as defined by Section 288 of the \[Federal] Electoral Act on behalf of the Association unless the Committee chooses to appoint another member as Party Agent. The party agent is responsible for lodging the party’s annual financial disclosure return to the AEC.
 
 2. The Treasurer must— 
 
    a) ensure that the financial records of the Association are kept in accordance with the Act; 
 
-   2. coordinate the preparation of the financial statements of the Association and their certification by the Committee prior to their submission to the annual general meeting of the Association; and 
+   b) coordinate the preparation of the financial statements of the Association and their certification by the Committee prior to their submission to the annual general meeting of the Association; and 
 
-   3. ensure any financial requirements relating to participation in elections are met. 
+   c) ensure any financial requirements relating to participation in elections are met. 
 
 3. The Treasurer must ensure that at least one other Committee member has access to the accounts and financial records of the Association. 
 
@@ -1039,17 +1039,17 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) fulfil the relevant requirements as outlined in the \[Federal] Electoral Act on behalf of the Association; 
 
-   2. These include but are not limited to:
+   b) These include but are not limited to:
 
       i) nominate the party’s endorsed candidates to the AEC;
 
-      2. nominate the party’s registered name or the party’s registered abbreviation or logo to be printed on ballot papers to the AEC;
+      ii) nominate the party’s registered name or the party’s registered abbreviation or logo to be printed on ballot papers to the AEC;
 
-      3. receive any formal notices about party registration from the AEC; and
+      iii) receive any formal notices about party registration from the AEC; and
 
-      4. appoint deputy registered officers to assist in the nomination process
+      iv) appoint deputy registered officers to assist in the nomination process
 
-   3. fulfil the requirements of the Registered officer or equivalent as defined by other state and territory legislation as required; 
+   c) fulfil the requirements of the Registered officer or equivalent as defined by other state and territory legislation as required; 
 
 
 ### 51. Branch Representative 
@@ -1058,7 +1058,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) represent the interests of the branch on the Committee while taking into account the broader interests of the Association and the fulfilment of the Association’s purpose; and
 
-   2. act as a liaison officer between the Association and the relevant branch. 
+   b) act as a liaison officer between the Association and the relevant branch. 
 
 > **Note:** Branch representatives are expected to work in a cooperative and collegiate manner with other members of the Committee in order to advance the interest of the Association as a whole.
 
@@ -1076,9 +1076,9 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) is 18 years or over; 
 
-   2. is entitled to vote at a general meeting and 
+   b) is entitled to vote at a general meeting and 
 
-   3. meets the requirements of rule [98]. 
+   c) meets the requirements of rule [98]. 
 
 
 ### 54. When Committee positions become vacant & the timing of the elections 
@@ -1100,7 +1100,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) nominate themselves; or 
 
-   2. with their consent, be nominated by another Member. 
+   b) with their consent, be nominated by another Member. 
 
 4. A Member may be nominated for more than one position. 
 
@@ -1113,15 +1113,15 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) Convener; 
 
-   2. President; 
+   b) President; 
 
-   3. National Campaign Coordinator;
+   c) National Campaign Coordinator;
 
-   4. Secretary;
+   d) Secretary;
 
-   5. Treasurer; and 
+   e) Treasurer; and 
 
-   6. Registered officer
+   f) Registered officer
 
 > **Note:** The Secretary must reside in Australia. 
 
@@ -1155,7 +1155,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) by special resolution remove a Committee member from office; and 
 
-   2. elect an eligible Member of the Association to fill the vacant position in accordance with this Division. 
+   b) elect an eligible Member of the Association to fill the vacant position in accordance with this Division. 
 
 4. A Committee member who is the subject of a proposed special resolution under sub-rule (3)(a) may make representations in writing (not exceeding a reasonable length) to the Secretary or Convener of the Association and may request that the representations be provided to the Members of the Association. 
 
@@ -1170,11 +1170,11 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) cease to be a Member of the Association; 
 
-   2. fails to attend 3 consecutive Committee meetings (other than special or urgent Committee meetings) without leave of absence under rule 71; 
+   b) fails to attend 3 consecutive Committee meetings (other than special or urgent Committee meetings) without leave of absence under rule 71; 
 
-   3. is removed from office under sub-rule 59(3)(a); or 
+   c) is removed from office under sub-rule 59(3)(a); or 
 
-   4. otherwise ceases to be a Committee member by the operation of section 78 of the Act.
+   d) otherwise ceases to be a Committee member by the operation of section 78 of the Act.
 
 
 ### 60. Filling casual vacancies 
@@ -1183,9 +1183,9 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) has become vacant under rule [60]; or 
 
-   2. was not filled by election at the last annual general meeting; or 
+   b) was not filled by election at the last annual general meeting; or 
 
-   3. was not filled by a Branch election in the case of Branch Representatives. 
+   c) was not filled by a Branch election in the case of Branch Representatives. 
 
 2. If the position of Secretary becomes vacant, the Committee must appoint a Member to the position within 14 days after the vacancy arises. 
 
@@ -1252,7 +1252,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) in the case of a special meeting—the meeting lapses; or 
 
-   2. in any other case—the meeting must be adjourned to a date no later than 14 days after the adjournment and notice of the time, date and place to which the meeting is adjourned must be given in accordance with rule [63]. 
+   b) in any other case—the meeting must be adjourned to a date no later than 14 days after the adjournment and notice of the time, date and place to which the meeting is adjourned must be given in accordance with rule [63]. 
 
 
 ### 66. Decision Making 
@@ -1296,7 +1296,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) must not be present while the matter is being considered at the meeting; and 
 
-   2. must not vote on the matter. 
+   b) must not vote on the matter. 
 
 > **Note** Under section 81(3) of the Act, if there are insufficient Committee members to form a quorum because a Committee member who has a material personal interest is disqualified from voting on a matter, a general meeting may be called to deal with the matter. 
 
@@ -1304,9 +1304,9 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) that exists only because the Committee member belongs to a class of people for whose benefit the Association is established; 
 
-   2. that the Committee member has in common with all, or a substantial proportion of, the members of the Association; or 
+   b) that the Committee member has in common with all, or a substantial proportion of, the members of the Association; or 
 
-   3. that exists only because the Committee member has been endorsed as a candidate for a parliamentary or municipal election or is a parliamentary or municipal representative of the Association. 
+   c) that exists only because the Committee member has been endorsed as a candidate for a parliamentary or municipal election or is a parliamentary or municipal representative of the Association. 
 
 
 ### 69. Minutes of meetings 
@@ -1317,11 +1317,11 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) the names of the people in attendance at the meeting; 
 
-   2. the business considered at the meeting; 
+   b) the business considered at the meeting; 
 
-   3. any resolution on which a consensus decision has been made or a vote has been taken and the result of the vote; and 
+   c) any resolution on which a consensus decision has been made or a vote has been taken and the result of the vote; and 
 
-   4. any material personal interest disclosed under rule 68. 
+   d) any material personal interest disclosed under rule 68. 
 
 
 ### 70. Leave of absence 
@@ -1341,11 +1341,11 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) individuals; 
 
-   2. community not-for-profit organisations; 
+   b) community not-for-profit organisations; 
 
-   3. philanthropic grant-giving organisations;
+   c) philanthropic grant-giving organisations;
 
-   4. funds provided by Governments, Government agencies or agents, for the purposes of supporting candidates or parties to run in elections. 
+   d) funds provided by Governments, Government agencies or agents, for the purposes of supporting candidates or parties to run in elections. 
 
 3. The Association must not source funds from any source whose purposes or policies run counter to the Association's purposes, policies or strategies with the exception of funding sourced from sources identified in sub-rule (2)(d).
 
@@ -1353,7 +1353,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) specific election or non-election campaigns; or 
 
-   2. individual candidates or Branches. 
+   b) individual candidates or Branches. 
 
 5. The Association must not accept donations that are subject to any conditions that create a conflict with the Association's purposes, policies or strategies. 
 
@@ -1383,7 +1383,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) correctly record and explain its transactions, financial position and performance; and 
 
-   2. enable financial statements to be prepared as required by the Act. 
+   b) enable financial statements to be prepared as required by the Act. 
 
 2. The Association must retain the financial records for 7 years after the transactions covered by the records are completed. 
 
@@ -1391,7 +1391,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) the financial records for the current financial year; and 
 
-   2. any other financial records, as authorised by the Committee. 
+   b) any other financial records, as authorised by the Committee. 
 
 
 ### 74. Financial statements 
@@ -1402,13 +1402,13 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) the preparation of the financial statements; 
 
-   2. if required, the review or auditing of the financial statements; 
+   b) if required, the review or auditing of the financial statements; 
 
-   3. the certification of the financial statements by the Committee; 
+   c) the certification of the financial statements by the Committee; 
 
-   4. the submission of the financial statements to the annual general meeting of the Association; and 
+   d) the submission of the financial statements to the annual general meeting of the Association; and 
 
-   5. the lodgement with the Registrar of the financial statements and accompanying reports, certificates, statements and fee. 
+   e) the lodgement with the Registrar of the financial statements and accompanying reports, certificates, statements and fee. 
 
 
 #
@@ -1421,7 +1421,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) the address determined from time to time by resolution of the Committee; or 
 
-   2. if the Committee has not determined an address to be the registered address—the postal address of the Secretary. 
+   b) if the Committee has not determined an address to be the registered address—the postal address of the Secretary. 
 
 
 ### 76. Notice requirements 
@@ -1430,23 +1430,23 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) by handing the notice to the Member personally; 
 
-   2. by sending it by post to the Member at the address recorded for the member on the Register of Members; or 
+   b) by sending it by post to the Member at the address recorded for the member on the Register of Members; or 
 
-   3. by email or facsimile transmission. 
+   c) by email or facsimile transmission. 
 
 2. Any notice required to be given to the Association or the Committee may be given— 
 
    a) by handing the notice to a member of the Committee; 
 
-   2. by sending the notice by post to the registered address; 
+   b) by sending the notice by post to the registered address; 
 
-   3. by leaving the notice at the registered address; or 
+   c) by leaving the notice at the registered address; or 
 
-   4. if the Committee determines that it is appropriate in the circumstances— 
+   d) if the Committee determines that it is appropriate in the circumstances— 
 
       i) by email to the email address of the Association or the Secretary; or 
 
-      2. by facsimile transmission to the facsimile number of the Association. 
+      ii) by facsimile transmission to the facsimile number of the Association. 
 
 
 ### 77. Custody and inspection of books and records 
@@ -1455,9 +1455,9 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) the Register of Members; 
 
-   2. the minutes of general meetings; 
+   b) the minutes of general meetings; 
 
-   3. subject to sub-rule (2), the financial records, books, securities and any other relevant document of the Association, including minutes of Committee meetings. 
+   c) subject to sub-rule (2), the financial records, books, securities and any other relevant document of the Association, including minutes of Committee meetings. 
 
 > **Note:** See the note following rule 17 for details of access to the Register of Members. 
 
@@ -1471,11 +1471,11 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) its membership records; 
 
-   2. its financial statements; 
+   b) its financial statements; 
 
-   3. its financial records; 
+   c) its financial records; 
 
-   4. records and documents relating to transactions, dealings, business or property of the Association. 
+   d) records and documents relating to transactions, dealings, business or property of the Association. 
 
 
 ### 78. Alteration of rules
@@ -1510,7 +1510,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) be conducted in conformity with this Division; and 
 
-   2. be secret. 
+   b) be secret. 
 
 (\* e.g. binding policies and procedures in the Operations Manual and operating rules for units of the Association.) 
 
@@ -1554,7 +1554,7 @@ and an entry to that effect in the minutes of the meeting is conclusive proof of
 
    a) the election of office bearer members of the Committee; 
 
-   2. the election of candidates for parliamentary elections. 
+   b) the election of candidates for parliamentary elections. 
 
 
 ### 87. Ballot papers 
@@ -1644,41 +1644,41 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) progress the purposes of the association through public education and political and non-political campaigning, including running candidates for election at all levels of government, and 
 
-   2. providing an organisational structure for groups of like minded members who share a similar interpretation of methods of campaigning, chosen target audience, brand identity and the Association's purposes, 
+   b) providing an organisational structure for groups of like minded members who share a similar interpretation of methods of campaigning, chosen target audience, brand identity and the Association's purposes, 
 
-   3. engage Members at a practical level; 
+   c) engage Members at a practical level; 
 
-   4. coordinate and run campaigns and mobilisation efforts through Local Campaign Teams; 
+   d) coordinate and run campaigns and mobilisation efforts through Local Campaign Teams; 
 
-   5. foster the achievement of the Association’s objectives; 
+   e) foster the achievement of the Association’s objectives; 
 
-   6. expand the profile of the Association; 
+   f) expand the profile of the Association; 
 
-   7. expand the Membership of the Association; 
+   g) expand the Membership of the Association; 
 
-   8. to develop policy for implementation at federal, state, and local government levels.
+   h) to develop policy for implementation at federal, state, and local government levels.
 
-   9. to preselect effective candidates to run at federal, state, and local government levels.
+   i) to preselect effective candidates to run at federal, state, and local government levels.
 
 > **Note:** There is no restriction on more than one ****Branch running a candidate in the same electorate / ward or equivalent in these rules. 
 
-   10. allocate preferences in electorates / ward or equivalent where Branch candidates are running.
+   j) allocate preferences in electorates / ward or equivalent where Branch candidates are running.
 
-   11. where desired to present preselected candidates to the Association for formal endorsement by the Association.
+   k) where desired to present preselected candidates to the Association for formal endorsement by the Association.
 
 > **Note:** There is no restriction on the Association endorsing more than one candidate for any given electorate / ward or equivalent in these rules. 
 
-   12. where a Branch has a candidate endorsed by the Association the Branch must submit relevant material to enable electoral returns to be successfully completed by the Association.
+   l) where a Branch has a candidate endorsed by the Association the Branch must submit relevant material to enable electoral returns to be successfully completed by the Association.
 
-   13. raise money, subject to rule 96, to support campaigns; and 
+   m) raise money, subject to rule 96, to support campaigns; and 
 
-   14. take action to prevent corruption and the abuse of power within and by the Association
+   n) take action to prevent corruption and the abuse of power within and by the Association
 
 3. Branches are formed from:
 
-   a) (a) pre existing organisations of 50 or more members; or 
+   a) pre existing organisations of 50 or more members; or 
 
-   2. (b) a group of 50 or more existing members of the Association who wish to form a new branch.
+   b) a group of 50 or more existing members of the Association who wish to form a new branch.
 
 4. Branches must agree to the purposes of the Association and a motion must be passed by a prospective Branch at an Inaugural, Annual or Special General meeting of their membership to this effect.
 
@@ -1688,41 +1688,41 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) Applications are submitted in writing to the Committee by the prospective Branch.
 
-   2. Application must include:
+   b) Application must include:
 
       i) the minutes of the meeting where the prospective Branch members voted to form a Branch of the Association.
 
-      2. the minutes of the meeting where the prospective Branch members agreed to the purposes of the Association as per sub rule (4).
+      ii) the minutes of the meeting where the prospective Branch members agreed to the purposes of the Association as per sub rule (4).
 
-      3. a list of current members of the prospective Branch.
+      iii) a list of current members of the prospective Branch.
 
-      4. a name and contact details for a person nominated by the prospective Branch to act as liaison during the application process.
+      iv) a name and contact details for a person nominated by the prospective Branch to act as liaison during the application process.
 
-      5. the rules of the prospective Branch
+      v) the rules of the prospective Branch
 
-   3. As soon as practicable after an application for membership is received, the Committee must decide by resolution whether to accept or reject the application.
+   c) As soon as practicable after an application for membership is received, the Committee must decide by resolution whether to accept or reject the application.
 
-   4. The Committee may reject an application if the Committee believes the prospective Branch’s formation will not advance the purposes of the Association.
+   d) The Committee may reject an application if the Committee believes the prospective Branch’s formation will not advance the purposes of the Association.
 
-   5. The Committee must notify the prospective Branch in writing of its decision as soon as practicable after the decision is made. 
+   e) The Committee must notify the prospective Branch in writing of its decision as soon as practicable after the decision is made. 
 
-   6. No reason need be given for the rejection of an application. 
+   f) No reason need be given for the rejection of an application. 
 
-   7. If accepted, the new Branch must provide:
+   g) If accepted, the new Branch must provide:
 
       i) a list of members with information that allows registration of a party federally and in the relevant state as soon as practicable if they have not already done so; and
 
-      2. nominate a Branch representative to sit on the Committee.  
+      ii) nominate a Branch representative to sit on the Committee.  
 
 7. Governance of Branches:
 
    a) Branches must be governed in accordance with these Rules and the Branch’s operating rules;
 
-   2. A Branch may amend its operating rules in accordance with these Rules and as specified in the Branch-specific operating rules; and
+   b) A Branch may amend its operating rules in accordance with these Rules and as specified in the Branch-specific operating rules; and
 
-   3. Whenever an amendment is made to a Branch’s operating rules, the Branch must provide the Committee with a complete and up-to-date electronic copy
+   c) Whenever an amendment is made to a Branch’s operating rules, the Branch must provide the Committee with a complete and up-to-date electronic copy
 
-   4. A Branch’s operating rules may exist as a formal constitution. 
+   d) A Branch’s operating rules may exist as a formal constitution. 
 
 8. All Branches must submit to the Committee an annual report on Branch operations. 
 
@@ -1732,11 +1732,11 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
     a) has fewer than 50 Members; 
 
-    2. fails to fulfil core Branch functions (for example holding an annual general meeting, holding regular Branch meetings, failure to hold fair internal elections, providing material to enable the successful completion of relevant electoral returns or submitting an annual report, submitting a up-to-date membership list etc); 
+    b) fails to fulfil core Branch functions (for example holding an annual general meeting, holding regular Branch meetings, failure to hold fair internal elections, providing material to enable the successful completion of relevant electoral returns or submitting an annual report, submitting a up-to-date membership list etc); 
 
-    3. advocates in opposition to the Association’s core purposes, principles and goals; or 
+    c) advocates in opposition to the Association’s core purposes, principles and goals; or 
 
-    4. has been found to be operating corruptly or in a manner prejudicial to the interests of the Association. 
+    d) has been found to be operating corruptly or in a manner prejudicial to the interests of the Association. 
 
 11. If a Branch has been disbanded or expelled under sub-rules 9(c) or (d) or as a result of a disciplinary action under Part 3 Division 2, the Committee may bar a member of that Branch from registering for a defined period with any existing or new Branch. 
 
@@ -1748,11 +1748,11 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
     a) There is no pre-existing State Branch for that relevant state or territory. 
 
-    2. All proposed Members of the prospective State Branch are registered to vote within the designated state or territory.
+    b) All proposed Members of the prospective State Branch are registered to vote within the designated state or territory.
 
-    3. Members of a State Branch may additionally be members of any one (1) other Branch that is not a State Branch. 
+    c) Members of a State Branch may additionally be members of any one (1) other Branch that is not a State Branch. 
 
-    4. The rules for the prospective State Branch indicate an operational focus or scope within the borders of the particular state or territory. 
+    d) The rules for the prospective State Branch indicate an operational focus or scope within the borders of the particular state or territory. 
 
 >  **Note:** subrule (13)(d) here does not preclude State Branches from engaging in activities outside of their state, or at a federal level within their state. It is intended to minimise jurisdictional conflict. All member organisations are expected to engage in a collegiate and collaborative manner.
 
@@ -1765,9 +1765,9 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) one or more Branches; or 
 
-   2. an Election Campaign Committee 
+   b) an Election Campaign Committee 
 
-   3. the Committee. 
+   c) the Committee. 
 
 2. The purpose of a Local Campaign Team is to carry out a defined campaign, whether electoral or non-electoral. 
 
@@ -1802,7 +1802,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) must not make new policy commitments on behalf of the Association but can refer to existing policy as required; and 
 
-   2. must work cooperatively with other spokespeople of the Association to maintain consistency of communication in conformity with the Association’s policies.
+   b) must work cooperatively with other spokespeople of the Association to maintain consistency of communication in conformity with the Association’s policies.
 
 5. Topic based spokespersons may be appointed by an Election Campaign Committee on behalf of the Association for the duration of the election.
 
@@ -1829,7 +1829,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) if money is raised through an election campaign, then 10% is given to the relevant Electoral Campaign Committee; or 
 
-   2. if money is raised through non-election campaigning, then 5% is given to the Committee to support weaker Branches and 5% is given to the Committee to support the administration of the Association. 
+   b) if money is raised through non-election campaigning, then 5% is given to the Committee to support weaker Branches and 5% is given to the Committee to support the administration of the Association. 
 
 > **Note** The Association favours having strong Branches because this builds a strong organisation, but it is also true that each Branch benefits from having a strong organisation that strengthens the Branches appeal to the local community. 
 
@@ -1837,7 +1837,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) kept for use in the next equivalent election (i.e. money raised during a federal campaign but not spent is spent at the next federal election); or
 
-   2. distributed to further the purposes of the Association as the Committee sees best.
+   b) distributed to further the purposes of the Association as the Committee sees best.
 
 
 ### 98. Operations manual and policies and procedures 
@@ -1885,7 +1885,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) decide whether to set up an Election Campaign Committee (to oversee and if necessary organise the election campaign) and the Committee has the power to create Election Campaign Committee for this purpose; or 
 
-   2. act as the Election Campaign Committee itself. 
+   b) act as the Election Campaign Committee itself. 
 
 > **Note:** If the Committee decides not to create a separate Election Campaign Committee and to take on that role itself, then where the Rules refer to an Election Campaign Committee that means the Committee. 
 
@@ -1898,9 +1898,9 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) First, reimbursement of expenses incurred to the relevant campaigning entity if it exists and has capacity to maintain that funding. 
 
-   2. Second, allocation to expenses required to support any successfully elected candidate.
+   b) Second, allocation to expenses required to support any successfully elected candidate.
 
-   3. Third, as agreed by the Committee.
+   c) Third, as agreed by the Committee.
 
 
 ### 103. Contested electable positions
@@ -1913,7 +1913,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) by mutual agreement between the candidate nominees
 
-   2. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2). 
+   b) by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2). 
 
 3. in the case of single member seats
 
@@ -1925,17 +1925,17 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) be a current Member of the Association
 
-   2. be registered to vote for the electorate or ward that is being contested i.e. is on the relevant electoral roll. 
+   b) be registered to vote for the electorate or ward that is being contested i.e. is on the relevant electoral roll. 
 
-   3. be a member of the Association for more than 1 year. 
+   c) be a member of the Association for more than 1 year. 
 
 6. Voting, under sub-rule (2), to select candidates must take place either— 
 
    a) in a physical meeting; 
 
-   2. by postal ballot; or  
+   b) by postal ballot; or  
 
-   3. secure online voting system. 
+   c) secure online voting system. 
 
 
 ### 104. Elected representatives 
@@ -1957,11 +1957,11 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) been expelled as a Member of the Association as a result of disciplinary action taken by the Association; 
 
-   2. engaged in past or current conduct which does not meet the Code of Conduct; 
+   b) engaged in past or current conduct which does not meet the Code of Conduct; 
 
-   3. failed to meet their agreed campaign commitments where they have been endorsed for two elections; or 
+   c) failed to meet their agreed campaign commitments where they have been endorsed for two elections; or 
 
-   4. had a successful vote of no confidence moved against them by the Members of their electorate as covered in sub-rule (2). 
+   d) had a successful vote of no confidence moved against them by the Members of their electorate as covered in sub-rule (2). 
 
 2. Five or more Members who live within the electorate of an Association candidate or elected representative and have been Members for more than one year, may present a petition calling for a special meeting to be held at which all Members who have been members for more than one year and live within that electorate can vote to request the disendorsement of that candidate or elected representative. 
 
@@ -1973,11 +1973,11 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
    a) the grounds for the vote of no confidence must be presented in both written form and can be read by a Member seeking the disendorsement of the candidate or elected representative; and 
 
-   2. the candidate or elected representative who is the subject of the petition must be given the opportunity to present a statement in their defence. 
+   b) the candidate or elected representative who is the subject of the petition must be given the opportunity to present a statement in their defence. 
 
-   3. The statement in defence may be read by the person who is the subject of the petition or by their nominated representative; or if no person is nominated then by the meeting facilitator or a person nominated by the meeting facilitator.
+   c) The statement in defence may be read by the person who is the subject of the petition or by their nominated representative; or if no person is nominated then by the meeting facilitator or a person nominated by the meeting facilitator.
 
-   4. in both cases read statements should take no longer than 30 minutes each.  
+   d) in both cases read statements should take no longer than 30 minutes each.  
 
 6. To succeed a no confidence motion must obtain at least a 60% majority of the eligible Members voting. 
 
