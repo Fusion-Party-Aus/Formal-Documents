@@ -37,7 +37,7 @@ RULES OF ASSOCIATION for 
 
    2. advance any shared policy or platform agreed to by the membership.
 
-   3. facilitate the advancement of policy supported by non-conflicting branch values with branch backing..
+   3. facilitate the advancement of policy supported by non-conflicting branch values with branch backing.
 
    4. achieve the above goals through 
 
@@ -1905,7 +1905,7 @@ i.e. if a bundle of 100 votes was distributed to a candidate at 0.48 value then 
 
 ### 103. Contested electable positions
 
-1. At times multiple members of the Association will seek to contest electable positions. In this case,  the following rules will be used decide which candidates will be endorsed and in what position:
+1. At times multiple members of the Association will seek to contest electable positions. In this case, the following rules will be used to decide which candidates will be endorsed and in what position:
 
 > **Note:** This is expected in the case of the top ballot position on a Federal Senate seat or State upper house seat, or in the case of a winnable single member electorate emerging.
 
