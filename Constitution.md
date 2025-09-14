@@ -4,7 +4,7 @@ RULES OF ASSOCIATION for
 
 **Constitution v1.6**
 
-**Approved at the 26th of November Annual General Meeting 2023**
+**Approved at the 17th of November Annual General Meeting 2024**
 
 ********
 
