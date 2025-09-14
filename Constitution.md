@@ -4,7 +4,7 @@ RULES OF ASSOCIATION for
 
 **Constitution v1.6**
 
-**Approved at the 26th of November Annual General Meeting 2023**
+**Approved at the 17th of November Annual General Meeting 2024**
 
 ********
 
@@ -144,7 +144,7 @@ In these Rules—
 
 **_Operations Manual_** means the document defined in rule [101] that contains Association policies and procedures and other critical operations information;
 
-**_operating rules_** means a set of subsidiary rules created under these Rules to govern a unit operating within the Association (such as a Branch, which must have operating rules created under subrule 92(6), or Local Campaign Team which must have operating rules created under subrule 93(6) or some other unit which may have operating rules created under subrule 101(3));
+**_operating rules_** means a set of subsidiary rules created under these Rules to govern a unit operating within the Association (such as a Branch, which must have operating rules created under sub-rule [92(6)], or Local Campaign Team which must have operating rules created under sub-rule [93(6)] or some other unit which may have operating rules created under sub-rule [101(3)]);
 
 **_special resolution_** means a resolution that requires not less than three-quarters of the Members voting at a general meeting, whether in person or by proxy, to vote in favour of the resolution;
 
@@ -508,7 +508,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 6. The Member will be notified of the DRC decision as soon as is practically possible after the DRC decision.
 
-> **Note:** A lesser action is defined in order as they are listed in subrule (2), the least significant being a reprimand and the most significant being expulsion.
+> **Note:** A lesser action is defined in order as they are listed in sub-rule (2), the least significant being a reprimand and the most significant being expulsion. 
 
 
 ### 22. Appealing a decision of the DRC
@@ -673,7 +673,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    c. to elect the members of the Committee
 
-   d. to set, confirm or vary the amounts (if any) of the annual subscription and joining fee for Members, informed by any recommendation of the Committee in subrule [13(1)(a)]; and
+   d. to set, confirm or vary the amounts (if any) of the annual subscription and joining fee for Members, informed by any recommendation of the Committee in sub-rule 13(1)(a); and
 
    e. to endorse or reject any policy implementations adopted by the Association since the previous annual general meeting.
 
@@ -1189,7 +1189,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 2. If the position of Secretary becomes vacant, the Committee must appoint a Member to the position within 14 days after the vacancy arises.
 
-3. Rule [59] also applies to any Committee member appointed by the Committee under subrule (1) or (2).
+3. Rule [59] also applies to any Committee member appointed by the Committee under sub-rule (1) or (2).
 
 4. The Committee may continue to act despite any vacancy in its membership.
 
@@ -1753,7 +1753,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
     d. The rules for the prospective State Branch indicate an operational focus or scope within the borders of the particular state or territory.
 
->  **Note:** subrule (13)(d) here does not preclude State Branches from engaging in activities outside of their state, or at a federal level within their state. It is intended to minimise jurisdictional conflict. All member organisations are expected to engage in a collegiate and collaborative manner.
+>  **Note:** sub-rule (13)(d) here does not preclude State Branches from engaging in activities outside of their state, or at a federal level within their state. It is intended to minimise jurisdictional conflict. All member organisations are expected to engage in a collegiate and collaborative manner.
 
 >  **Note:** Branches are not necessarily state branches as referred to by the AEC.
 
