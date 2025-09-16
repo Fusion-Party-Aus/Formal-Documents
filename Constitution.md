@@ -132,7 +132,7 @@ In these Rules—
 
 **_general meeting_** means a general meeting of the Members of the Association convened in accordance with Part 4 and includes an annual general meeting, a special general meeting and a disciplinary appeal meeting;
 
-**general member** means a direct member of the Fusion Political Party with no branch affiliation as defined in sub rule [8(1)(b)];
+**general member** means a direct member of the Fusion Political Party with no branch affiliation as defined in sub-rule [8(1)(b)];
 
 **_Member (capitalised)_** means a member of the Association as defined in Part 3-Division 1 of these Rules;
 
@@ -381,7 +381,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ### 18. Code of Conduct
 
-1. The Association will maintain a Code of Conduct which identifies and defines:
+1. The Association will maintain a Code of Conduct (CoC) which identifies and defines:
 
    a. standards of conduct;
 
@@ -1661,7 +1661,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    > **Note:** There is no restriction on more than one Branch running a candidate in the same electorate / ward or equivalent in these rules.
 
-   j. allocate preferences in electorates / ward or equivalent where Branch candidates are running.
+   j. allocate preferences in electorates / wards or equivalent where Branch candidates are running, subject to any applicable guidelines.
 
    k. where desired to present preselected candidates to the Association for formal endorsement by the Association.
 
@@ -1671,7 +1671,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    m. raise money, subject to rule [96], to support campaigns; and
 
-   n. take action to prevent corruption and the abuse of power within and by the Association
+   n. take action to prevent corruption and the abuse of power within and by the Association.
 
 3. Branches are formed from:
 
@@ -1691,13 +1691,13 @@ if this is done in good faith on terms no more favourable than if the Member was
 
       1. the minutes of the meeting where the prospective Branch members voted to form a Branch of the Association.
 
-      2. the minutes of the meeting where the prospective Branch members agreed to the purposes of the Association as per sub rule (4).
+      2. the minutes of the meeting where the prospective Branch members agreed to the purposes of the Association as per sub-rule (4).
 
       3. a list of current members of the prospective Branch.
 
       4. a name and contact details for a person nominated by the prospective Branch to act as liaison during the application process.
 
-      5. the rules of the prospective Branch
+      5. the rules of the prospective Branch.
 
    c. As soon as practicable after an application for membership is received, the Committee must decide by resolution whether to accept or reject the application.
 
@@ -1849,7 +1849,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 4. Policies and procedures must not contradict these Rules.
 
-5. Policies and procedures that are binding can be created to limit (but not expand. the discretions available under these Rules.
+5. Policies and procedures that are binding can be created to limit (but not expand) the discretions available under these Rules.
 
 6. If a policy or procedure is binding this must be indicated clearly in the policy or procedure.
 
@@ -1862,7 +1862,11 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a. in the case of multi member upper house seats, the candidate’s position on the ballot must be defined during the selection process.
 
-2. All candidates endorsed by the Association or Branch must declare in writing their commitment to the Association’s Code of Conduct.
+2. All candidates endorsed by the Association or Branch must declare in writing their commitment to the Association’s Code of Conduct and/or any Candidate Agreement which—
+
+   a. stipulates adherence to the CoC; and
+
+   b. is endorsed by the Committee or a suitably delegated entity.
 
 3. The Association’s Code of Conduct is determined by the committee or delegated sub committee. This must be a publicly available document.
 
@@ -1985,8 +1989,32 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ### 106. Preferences given at external elections.
 
-1. Preferences given to other political parties at an election through How to Vote cards or equivalent in general must be distributed in order of a candidates and / or party’s alignment to the Association’s or branches policies and platforms.
+1. The Association may develop a binding guideline for preferences given to other political parties at an election through How to Vote cards or equivalent. This guideline—
 
-2. Preferences are decided in the first instance by the Branch who has selected the relevant candidate.
+   a. shall, in general, be distributed in order of a candidate and / or party’s alignment to the Association's or branches' policies and platforms.
+
+   b. shall not specify a specific immutable order, but instead group other political parties into categories.
+
+      1. A category must contain >1 party to be considered a valid category.
+
+	  2. The Association may not stipulate the order of candidates within a category except through negotiation with the relevant Branch's process for allocating preferences.
+
+	  3. The total number of categories shall not be fewer than 2, or greater than 5.
+
+   c. must be approved by at least 80% passing vote of the Committee or delegated entity which conducts Committee business. 
+
+   d. may be implemented or modified by a floor motion at any general meeting of the Association.
+
+   e. may not be materially altered away from any modifications made during a general meeting for at least 1 year after that meeting, except through another general meeting.
+
+2. A candidate and / or Branch which seeks to deviate from the guideline in a particular electorate / ward or equivalent may make a request to the Committee to be able to use a difference preference order on a case-by-case basis. The request—
+
+   a. must contain written justification for this change, which shall be published on the Candidate's profile if accepted.
+
+   b. may not request to move a party to a position in the order which is more than 1 category up/down from the guideline order.
+
+3. Subject to any binding guideline, preferences are decided in the first instance by the Branch who has selected the relevant candidate per sub-rule [92(2)(j)].
+
+4. If a Branch has delegated the selection of preferences for an electorate / ward or equivalent to a candidate, that candidate is still bound by any binding guideline.
 
 ══════════════
