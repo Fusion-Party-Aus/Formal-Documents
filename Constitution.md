@@ -925,19 +925,23 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 1. The Committee consists of—
 
-   a. a Convener;
+   a. five elected positions which include—
 
-   b. a President;
+      1. a Convener;
 
-   c. a Secretary;
+      2. a President;
 
-   d. a Treasurer;
+      3. a Secretary;
 
-   e. a National Campaigns Coordinator;
+      4. a Treasurer;
 
-   f. a Registered officer;
+      5. and a National Campaigns Coordinator;
 
-   g. up to one Branch Representative per branch noting sub clause [45](1)(j)
+   b. and a number of appointed positions—
+
+      1. a Registered Officer; and
+
+      2. up to one Branch Representative per branch noting rule [57].
 
 > **Note:** The Association and its members where possible should seek to ensure the Committee reflects the various Branches in a proportional manner.
 
@@ -1035,7 +1039,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ### 50. Registered Officer
 
-2. The Registered Officer must—
+1. The Registered Officer must—
 
    a. fulfil the relevant requirements as outlined in the \[Federal] Electoral Act on behalf of the Association;
 
@@ -1050,6 +1054,8 @@ if this is done in good faith on terms no more favourable than if the Member was
       4. appoint deputy registered officers to assist in the nomination process
 
    c. fulfil the requirements of the Registered officer or equivalent as defined by other state and territory legislation as required;
+
+> **Note:** The Registered Officer is expected to be a highly engaged role, with a strong capacity to manage electronic mailing and good communication skills. This is important because a lack of prompt responsiveness to AEC communications can readily become an existential threat to the Association.
 
 
 ### 51. Branch Representative
@@ -1117,17 +1123,23 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    c. National Campaign Coordinator;
 
-   d. Secretary;
+   d. Secretary; and
 
-   e. Treasurer; and
-
-   f. Registered officer
+   e. Treasurer
 
 > **Note:** The Secretary must reside in Australia.
 
 2. If a secret ballot is required the ballots must be held in accordance with Part 8-Division 1.
 
-3. On their election, the new President may take over as chairperson of the meeting.
+> **Note:** Secret ballots are currently required per rule [86].
+
+3. If applicable ballot measures cannot be performed during the meeting—
+
+   a. a caretaker period of not more than two weeks must be declared in advance or at the meeting; and
+
+   b. a ballot must be distributed to all members after the meeting to elect new officebearers during the caretaker period.
+
+4. On their election, if applicable, the new President may take over as chairperson of the meeting.
 
 
 ### 57. Election of Branch Representatives
