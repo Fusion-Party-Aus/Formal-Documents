@@ -1035,7 +1035,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ### 50. Registered Officer
 
-2. The Registered Officer must—
+1. The Registered Officer must—
 
    a. fulfil the relevant requirements as outlined in the \[Federal] Electoral Act on behalf of the Association;
 
