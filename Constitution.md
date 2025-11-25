@@ -2,9 +2,9 @@ RULES OF ASSOCIATION for
 
 **_Fusion Political Party_**
 
-**Constitution v1.6**
+**Constitution v1.7**
 
-**Approved at the 17th of November Annual General Meeting 2024**
+**Approved at the 19th of October Annual General Meeting 2025**
 
 ********
 
