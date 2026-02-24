@@ -1337,15 +1337,31 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 1. The funds of the Association may be derived from joining fees, annual subscriptions, donations, fund-raising activities, grants, interest and any other sources approved by the Committee.
 
-2. The Association must only source funds from—
+   2. The Association must only source funds from—
 
-   a. individuals;
+      a. individuals;
 
-   b. community not-for-profit organisations;
+      b. philanthropic grant-giving organisations;
 
-   c. philanthropic grant-giving organisations;
+      c. organisations registered for operation in Australia who, within 6 months of the Fusion donation, are not also donating to any of the following parties (or current candidates of these parties):
 
-   d. funds provided by Governments, Government agencies or agents, for the purposes of supporting candidates or parties to run in elections.
+         i. [The Liberal Party](https://www.liberal.org.au/)
+
+         ii. [The National Party](https://www.nationals.org.au/)
+
+         iii. [The Labor Party](https://www.alp.org.au/)
+
+         iv. [One Nation](https://www.onenation.org.au/)
+
+         v. [Family First Party Australia](https://www.familyfirstparty.org.au/)
+
+         vi. [Gerard Rennick People First](https://peoplefirstparty.au/policies/)
+
+         viii. [Democratic Party](https://democrats.org/) (USA)
+
+         ix. [Republican Party](https://en.wikipedia.org/wiki/Republican_Party_(United_States)) (USA)
+
+      d. funds provided by Governments, Government agencies or agents, for the purposes of supporting candidates or parties to run in elections.
 
 3. The Association must not source funds from any source whose purposes or policies run counter to the Association's purposes, policies or strategies with the exception of funding sourced from sources identified in sub-rule (2)(d).
 
