@@ -130,6 +130,8 @@ In these Rules—
 
 **_financial year_** means the 12 month period specified in rule [4];
 
+**_geographic meeting_** means a geographically restricted general meeting of the Members of the Association within a region convened for the purposes of resolving a matter specific to that region (such as the election of a local candidate);
+
 **_general meeting_** means a general meeting of the Members of the Association convened in accordance with Part 4 and includes an annual general meeting, a special general meeting and a disciplinary appeal meeting;
 
 **general member** means a direct member of the Fusion Political Party with no branch affiliation as defined in sub-rule [8(1)(b)];
@@ -292,13 +294,21 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ### 13. Annual subscription and fee on joining
 
-1. The Committee—
+1. As an item of general business, the Committee may—
 
-   a. recommends to the annual general meeting the amount of the annual subscriptions (if any) and joining fees (if any) for the following financial year; and
+   a. recommend the amount of the annual subscriptions (if any) and joining fees (if any) for the following financial year—
 
-   b. determines the date for payment of the annual subscription.
+      1. to the annual general meeting; or
 
-2. The Committee may determine that any new Member who joins after the start of a financial year must, for that financial year, pay a fee equal to—
+      2. to any special general meeting at which general business has been included as an item for consideration in the notice under rule [34].
+
+   b. determine the date for payment of the annual subscription which may—
+
+      1. be a fixed date within the last quarter of the financial year and at least 56 days before the subsequent annual general meeting; or
+
+      2. be processed on a yearly cycle determined from the date of their membership application or renewal.
+
+2. Where a fixed date applies for the annual subscription, the Committee may determine that any new Member who joins after the start of a financial year must, for that financial year, pay a fee equal to—
 
    a. the full annual subscription;
 
@@ -306,7 +316,17 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    c. a fixed amount determined from time to time by the Committee that is equal to or less than the annual subscription.
 
-3. The rights (including the right to vote) of a Member who has not paid the annual subscription by the due date are suspended until the subscription is paid.
+3. The Committee may recommend any amount (including a zero amount) or system of amounts (either variable or static).
+
+4. The rights (including the right to vote) of a Member who has not paid the annual subscription by the due date are suspended until the subscription is paid.
+
+5. If a general meeting is adjourned to a later date, a Member who had the right to vote at the original meeting retains the right to vote in the resumed meeting even if their subscription has lapsed during the adjournment.
+
+6. The Committee may assign additional privileges to differing values of annual subscription providing these privileges-
+
+   a. do not impinge upon or undermine the general rights of Members (per rule [14]); and
+
+   b. do not create incentive to contravene the Code of Conduct.
 
 
 ### 14. General rights of Members
@@ -659,7 +679,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 2. The Association may hold its first annual general meeting at any time within 18 months after its incorporation.
 
-3. The Committee may determine the date, time and place of the annual general meeting.
+3. Subject to sub-rule [13(1)(b)(i)], the Committee may determine the date, time and place of the annual general meeting.
 
 4. The ordinary business of the annual general meeting is as follows—
 
@@ -667,9 +687,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    b. to receive and consider—
 
-      1. 1. the annual report of the Committee on the activities of the Association during the preceding financial year; and
+      1. the annual report of the Committee on the activities of the Association during the preceding financial year; and
 
-      2.2. the financial statements of the Association for the preceding financial year submitted by the Committee in accordance with Part 7 of the Act;
+      2. the financial statements of the Association for the preceding financial year submitted by the Committee in accordance with Part 7 of the Act;
 
    c. to elect the members of the Committee
 
@@ -749,7 +769,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ### 34. Proxies
 
-1. A Member may appoint another Member as their proxy to vote and speak on their her behalf at a general meeting other than at a disciplinary appeal meeting.
+1. A Member with the privilege to utilise a proxy may appoint another Member as their proxy to vote and speak on their behalf at any general or geographic meeting to which they are entitled to attend, and which does not forbid the use of proxies.
 
 2. The appointment of a proxy must be in writing and signed by the Member making the appointment.
 
@@ -757,9 +777,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 4. Even if the Committee has approved a form for the appointment of a proxy, the Member may use any other form that clearly identifies the person appointed as the Member's proxy and that has been signed by the Member.
 
-5. Notice of a general meeting given to a Member under rule [31] must—
+5. Notice of a general meeting given to a Member must—
 
-   a. state that the Member may appoint another Member as a proxy for the meeting; and
+   a. state whether the Member may appoint another Member as a proxy for the meeting; and
 
    b. include a copy of any form that the Committee has approved for the appointment of a proxy.
 
@@ -768,6 +788,8 @@ if this is done in good faith on terms no more favourable than if the Member was
 7. A form appointing a proxy sent by post or electronically is of no effect unless it is received by the Association no later than 24 hours before the commencement of the meeting.
 
 8. A Member may hold no more than five proxies.
+
+9. A member has the privilege to utilise a proxy by default unless the privilege has been otherwise restricted.
 
 
 ### 35. Use of technology
