@@ -138,9 +138,11 @@ In these Rules—
 
 **_Member entitled to vote_** means a Member who under sub-rule 14(1) is entitled to vote at a general meeting;
 
-**_National Campaign Coordinator_** means the Committee office bearer established by sub-rule 45(1)(e), whose role is to promote and oversee all the campaign activities of the Association, both electoral and non-electoral;
+**_National Campaign Coordinator_** means the Committee office bearer established by sub-rule 44(1)(e), whose role is to promote and oversee all the campaign activities of the Association, both electoral and non-electoral;
 
 **_National Executive_** means the Committee governed by Part 5 of these Rules;
+
+**_National Registration Coordinator_** means the Committee office bearer established by sub-rule 44(1)(f), whose role is to facilitate and oversee all registration activities of the Association with the relevant electoral commissions;
 
 **_Operations Manual_** means the document defined in rule [101] that contains Association policies and procedures and other critical operations information;
 
@@ -935,7 +937,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    e. a National Campaigns Coordinator;
 
-   f. a Registered officer;
+   f. a National Registration Coordinator;
 
    g. up to one Branch Representative per branch noting sub clause [45](1)(j)
 
@@ -986,7 +988,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 2. The Secretary must—
 
-   a. maintain the Register of Members in accordance with rule [18];
+   a. maintain the Register of Members in accordance with rule [17];
 
    b. keep custody of all books, documents, and securities of the Association in accordance with rules 76 and 79, except for the financial records referred to in sub-rule 75(3);
 
@@ -1013,7 +1015,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    e. ensure that cheques are signed and account withdrawals are authorised by at least 2 Committee members or, where expenditures are managed by another unit of the Association, by 2 equivalent office bearers from that unit; and
 
-   f. act as the Party Agent as defined by Section 288 of the \[Federal] Electoral Act on behalf of the Association unless the Committee chooses to appoint another member as Party Agent. The party agent is responsible for lodging the party’s annual financial disclosure return to the AEC.
+   f. act as the Party Agent as defined by Section 288 of the Federal Electoral Act on behalf of the Association unless the Committee chooses to appoint another member as Party Agent. The party agent is responsible for lodging the party’s annual financial disclosure return to the AEC.
 
 2. The Treasurer must—
 
@@ -1033,23 +1035,33 @@ if this is done in good faith on terms no more favourable than if the Member was
    a. seek to support and coordinate campaigns being run by the Association and where appropriate its Branches in order to maximise the purposes of the association.
 
 
-### 50. Registered Officer
+### 50. National Registration Coordinator
 
-1. The Registered Officer must—
+1. The National Registration Coordinator must—
 
-   a. fulfil the relevant requirements as outlined in the \[Federal] Electoral Act on behalf of the Association;
+   a. ensure that the party has, at all times, a current and active Registered Officer who can fulfil the relevant requirements as outlined in the Federal Electoral Act on behalf of the Association;
 
-   b. These include but are not limited to:
+   b. make the Registered Officer aware that their duties include but are not limited to:
 
-      1. nominate the party’s endorsed candidates to the AEC;
+      1. nominating the party’s endorsed candidates to the AEC;
 
-      2. nominate the party’s registered name or the party’s registered abbreviation or logo to be printed on ballot papers to the AEC;
+      2. nominating the party’s registered name or the party’s registered abbreviation or logo to be printed on ballot papers to the AEC;
 
-      3. receive any formal notices about party registration from the AEC; and
+      3. receiving any formal notices about party registration from the AEC; and
 
-      4. appoint deputy registered officers to assist in the nomination process
+      4. appointing deputy registered officers to assist in the nomination process.
 
-   c. fulfil the requirements of the Registered officer or equivalent as defined by other state and territory legislation as required;
+   c. facilitate the party to fulfil the requirements of the Registered Officer or equivalent as defined by other state and territory legislation as required.
+
+2. The National Registration Coordinator may—
+
+   a. take on the role of Registered Officer for any electoral context for which they qualify;
+
+   b. unilaterally rassign or revoke the appointment of the Registered Officer or any deputy registered officers, providing that this does not interupt an ongoing registration attempt more severely than would otherwise be incurred by retaining the appointment; and
+
+   c. investigate the Register of Members for the purpose of supporting the integrity of the party's registration with any Australian electoral commission.
+
+3. The National Registration Coordinator is a voting member of the Committee by virtue of being the National Registration Coordinator and not due to their status as Registered Officer. This remains true irrespective of who is currently appointed as the Registered Officer.
 
 
 ### 51. Branch Representative
@@ -1121,7 +1133,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    e. Treasurer; and
 
-   f. Registered officer
+   f. National Registration Coordinator
 
 > **Note:** The Secretary must reside in Australia.
 
