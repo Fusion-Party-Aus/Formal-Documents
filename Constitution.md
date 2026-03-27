@@ -1345,7 +1345,15 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    c. philanthropic grant-giving organisations;
 
-   d. funds provided by Governments, Government agencies or agents, for the purposes of supporting candidates or parties to run in elections.
+   d. funds provided by Governments, Government agencies or agents, for the purposes of supporting candidates or parties to run in elections; and
+
+   e. small to medium enterprises as defined by the Australian Bureau of Statistics, providing that they are fully Australian-owned and—
+
+      1. are not involved in environmental destruction through fossil fuel extraction, irresponsible use of water, or unsustainable clearing of land;
+
+      2. do not promote gambling, tobacco, or other products and services with known negative externalities of social consequence; and
+
+      3. have not also, within 6 months of any donation to the Association, donated to any party with goals that oppose those of the Assocation.
 
 3. The Association must not source funds from any source whose purposes or policies run counter to the Association's purposes, policies or strategies with the exception of funding sourced from sources identified in sub-rule (2)(d).
 
