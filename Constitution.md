@@ -1057,7 +1057,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    a. take on the role of Registered Officer for any electoral context for which they qualify;
 
-   b. unilaterally rassign or revoke the appointment of the Registered Officer or any deputy registered officers, providing that this does not interupt an ongoing registration attempt more severely than would otherwise be incurred by retaining the appointment; and
+   b. unilaterally reassign or revoke the appointment of the Registered Officer or any deputy registered officers, providing that this does not interrupt an ongoing registration attempt more severely than would otherwise be incurred by retaining the appointment; and
 
    c. investigate the Register of Members for the purpose of supporting the integrity of the party's registration with any Australian electoral commission.
 
