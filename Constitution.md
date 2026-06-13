@@ -2,9 +2,9 @@ RULES OF ASSOCIATION for
 
 **_Fusion Political Party_**
 
-**Constitution v1.7**
+**Constitution v1.8**
 
-**Approved at the 19th of October Annual General Meeting 2025**
+**Approved at the 7th of June Special General Meeting 2026**
 
 ********
 
@@ -1952,21 +1952,21 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 1. At times multiple members of the Association will seek to contest electable positions. In this case, the following rules will be used to decide which candidates will be endorsed and in what position:
 
+   a. in the case of multi member seats
+
+      1. by mutual agreement between the candidate nominees
+
+      2. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2).
+
+   b. in the case of single member seats
+
+      1. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2).
+
 > **Note:** This is expected in the case of the top ballot position on a Federal Senate seat or State upper house seat, or in the case of a winnable single member electorate emerging.
 
-2. in the case of multi member seats
+2. Where one or more Association candidates must be selected for a contested position, the election must be held as set out in Part 8-Division 1, by all the Members entitled to vote as per sub-rule (3).
 
-   a. by mutual agreement between the candidate nominees
-
-   b. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2).
-
-3. in the case of single member seats
-
-   a. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2).
-
-4. Where one or more Association candidates must be selected for a contested position, the election must be held as set out in Part 8-Division 1, by all the Members entitled to vote as per sub-rule (3).
-
-5. Association members entitled to vote for a contested position must meet the following criteria to be able to vote:
+3. Association members entitled to vote for a contested position must meet the following criteria to be able to vote:
 
    a. be a current Member of the Association
 
@@ -1974,7 +1974,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    c. be a member of the Association for more than 1 year.
 
-6. Voting, under sub-rule (2), to select candidates must take place either—
+4. Voting, under sub-rule (2), to select candidates must take place either—
 
    a. in a physical meeting;
 
