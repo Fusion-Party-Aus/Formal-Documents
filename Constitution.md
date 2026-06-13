@@ -2,9 +2,9 @@ RULES OF ASSOCIATION for
 
 **_Fusion Political Party_**
 
-**Constitution v1.7**
+**Constitution v1.8**
 
-**Approved at the 19th of October Annual General Meeting 2025**
+**Approved at the 7th of June Special General Meeting 2026**
 
 ********
 
@@ -130,6 +130,8 @@ In these Rules—
 
 **_financial year_** means the 12 month period specified in rule [4];
 
+**_geographic meeting_** means a geographically restricted general meeting of the Members of the Association within a region convened for the purposes of resolving a matter specific to that region (such as the election of a local candidate);
+
 **_general meeting_** means a general meeting of the Members of the Association convened in accordance with Part 4 and includes an annual general meeting, a special general meeting and a disciplinary appeal meeting;
 
 **general member** means a direct member of the Fusion Political Party with no branch affiliation as defined in sub-rule [8(1)(b)];
@@ -138,9 +140,11 @@ In these Rules—
 
 **_Member entitled to vote_** means a Member who under sub-rule 14(1) is entitled to vote at a general meeting;
 
-**_National Campaign Coordinator_** means the Committee office bearer established by sub-rule 45(1)(e), whose role is to promote and oversee all the campaign activities of the Association, both electoral and non-electoral;
+**_National Campaign Coordinator_** means the Committee office bearer established by sub-rule 44(1)(e), whose role is to promote and oversee all the campaign activities of the Association, both electoral and non-electoral;
 
 **_National Executive_** means the Committee governed by Part 5 of these Rules;
+
+**_National Registration Coordinator_** means the Committee office bearer established by sub-rule 44(1)(f), whose role is to facilitate and oversee all registration activities of the Association with the relevant electoral commissions;
 
 **_Operations Manual_** means the document defined in rule [101] that contains Association policies and procedures and other critical operations information;
 
@@ -292,13 +296,21 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ### 13. Annual subscription and fee on joining
 
-1. The Committee—
+1. As an item of general business, the Committee may—
 
-   a. recommends to the annual general meeting the amount of the annual subscriptions (if any) and joining fees (if any) for the following financial year; and
+   a. recommend the amount of the annual subscriptions (if any) and joining fees (if any) for the following financial year—
 
-   b. determines the date for payment of the annual subscription.
+      1. to the annual general meeting; or
 
-2. The Committee may determine that any new Member who joins after the start of a financial year must, for that financial year, pay a fee equal to—
+      2. to any special general meeting at which general business has been included as an item for consideration in the notice under rule [34].
+
+   b. determine the date for payment of the annual subscription which may—
+
+      1. be a fixed date within the last quarter of the financial year and at least 56 days before the subsequent annual general meeting; or
+
+      2. be processed on a yearly cycle determined from the date of their membership application or renewal.
+
+2. Where a fixed date applies for the annual subscription, the Committee may determine that any new Member who joins after the start of a financial year must, for that financial year, pay a fee equal to—
 
    a. the full annual subscription;
 
@@ -306,7 +318,17 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    c. a fixed amount determined from time to time by the Committee that is equal to or less than the annual subscription.
 
-3. The rights (including the right to vote) of a Member who has not paid the annual subscription by the due date are suspended until the subscription is paid.
+3. The Committee may recommend any amount (including a zero amount) or system of amounts (either variable or static).
+
+4. The rights (including the right to vote) of a Member who has not paid the annual subscription by the due date are suspended until the subscription is paid.
+
+5. If a general meeting is adjourned to a later date, a Member who had the right to vote at the original meeting retains the right to vote in the resumed meeting even if their subscription has lapsed during the adjournment.
+
+6. The Committee may assign additional privileges to differing values of annual subscription providing these privileges-
+
+   a. do not impinge upon or undermine the general rights of Members (per rule [14]); and
+
+   b. do not create incentive to contravene the Code of Conduct.
 
 
 ### 14. General rights of Members
@@ -659,7 +681,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 2. The Association may hold its first annual general meeting at any time within 18 months after its incorporation.
 
-3. The Committee may determine the date, time and place of the annual general meeting.
+3. Subject to sub-rule [13(1)(b)(i)], the Committee may determine the date, time and place of the annual general meeting.
 
 4. The ordinary business of the annual general meeting is as follows—
 
@@ -667,9 +689,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    b. to receive and consider—
 
-      1. 1. the annual report of the Committee on the activities of the Association during the preceding financial year; and
+      1. the annual report of the Committee on the activities of the Association during the preceding financial year; and
 
-      2.2. the financial statements of the Association for the preceding financial year submitted by the Committee in accordance with Part 7 of the Act;
+      2. the financial statements of the Association for the preceding financial year submitted by the Committee in accordance with Part 7 of the Act;
 
    c. to elect the members of the Committee
 
@@ -749,7 +771,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 ### 34. Proxies
 
-1. A Member may appoint another Member as their proxy to vote and speak on their her behalf at a general meeting other than at a disciplinary appeal meeting.
+1. A Member with the privilege to utilise a proxy may appoint another Member as their proxy to vote and speak on their behalf at any general or geographic meeting to which they are entitled to attend, and which does not forbid the use of proxies.
 
 2. The appointment of a proxy must be in writing and signed by the Member making the appointment.
 
@@ -757,9 +779,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 4. Even if the Committee has approved a form for the appointment of a proxy, the Member may use any other form that clearly identifies the person appointed as the Member's proxy and that has been signed by the Member.
 
-5. Notice of a general meeting given to a Member under rule [31] must—
+5. Notice of a general meeting given to a Member must—
 
-   a. state that the Member may appoint another Member as a proxy for the meeting; and
+   a. state whether the Member may appoint another Member as a proxy for the meeting; and
 
    b. include a copy of any form that the Committee has approved for the appointment of a proxy.
 
@@ -768,6 +790,8 @@ if this is done in good faith on terms no more favourable than if the Member was
 7. A form appointing a proxy sent by post or electronically is of no effect unless it is received by the Association no later than 24 hours before the commencement of the meeting.
 
 8. A Member may hold no more than five proxies.
+
+9. A member has the privilege to utilise a proxy by default unless the privilege has been otherwise restricted.
 
 
 ### 35. Use of technology
@@ -935,9 +959,9 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    e. a National Campaigns Coordinator;
 
-   f. a Registered officer;
+   f. a National Registration Coordinator;
 
-   g. up to one Branch Representative per branch noting sub clause [45](1)(j)
+   g. up to one Branch Representative per branch.
 
 > **Note:** The Association and its members where possible should seek to ensure the Committee reflects the various Branches in a proportional manner.
 
@@ -986,7 +1010,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 2. The Secretary must—
 
-   a. maintain the Register of Members in accordance with rule [18];
+   a. maintain the Register of Members in accordance with rule [17];
 
    b. keep custody of all books, documents, and securities of the Association in accordance with rules 76 and 79, except for the financial records referred to in sub-rule 75(3);
 
@@ -1013,7 +1037,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    e. ensure that cheques are signed and account withdrawals are authorised by at least 2 Committee members or, where expenditures are managed by another unit of the Association, by 2 equivalent office bearers from that unit; and
 
-   f. act as the Party Agent as defined by Section 288 of the \[Federal] Electoral Act on behalf of the Association unless the Committee chooses to appoint another member as Party Agent. The party agent is responsible for lodging the party’s annual financial disclosure return to the AEC.
+   f. act as the Party Agent as defined by Section 288 of the Federal Electoral Act on behalf of the Association unless the Committee chooses to appoint another member as Party Agent. The party agent is responsible for lodging the party’s annual financial disclosure return to the AEC.
 
 2. The Treasurer must—
 
@@ -1033,23 +1057,33 @@ if this is done in good faith on terms no more favourable than if the Member was
    a. seek to support and coordinate campaigns being run by the Association and where appropriate its Branches in order to maximise the purposes of the association.
 
 
-### 50. Registered Officer
+### 50. National Registration Coordinator
 
-1. The Registered Officer must—
+1. The National Registration Coordinator must—
 
-   a. fulfil the relevant requirements as outlined in the \[Federal] Electoral Act on behalf of the Association;
+   a. ensure that the party has, at all times, a current and active Registered Officer who can fulfil the relevant requirements as outlined in the Federal Electoral Act on behalf of the Association;
 
-   b. These include but are not limited to:
+   b. make the Registered Officer aware that their duties include but are not limited to:
 
-      1. nominate the party’s endorsed candidates to the AEC;
+      1. nominating the party’s endorsed candidates to the AEC;
 
-      2. nominate the party’s registered name or the party’s registered abbreviation or logo to be printed on ballot papers to the AEC;
+      2. nominating the party’s registered name or the party’s registered abbreviation or logo to be printed on ballot papers to the AEC;
 
-      3. receive any formal notices about party registration from the AEC; and
+      3. receiving any formal notices about party registration from the AEC; and
 
-      4. appoint deputy registered officers to assist in the nomination process
+      4. appointing deputy registered officers to assist in the nomination process.
 
-   c. fulfil the requirements of the Registered officer or equivalent as defined by other state and territory legislation as required;
+   c. facilitate the party to fulfil the requirements of the Registered Officer or equivalent as defined by other state and territory legislation as required.
+
+2. The National Registration Coordinator may—
+
+   a. take on the role of Registered Officer for any electoral context for which they qualify;
+
+   b. unilaterally reassign or revoke the appointment of the Registered Officer or any deputy registered officers, providing that this does not interrupt an ongoing registration attempt more severely than would otherwise be incurred by retaining the appointment; and
+
+   c. investigate the Register of Members for the purpose of supporting the integrity of the party's registration with any Australian electoral commission.
+
+3. The National Registration Coordinator is a voting member of the Committee by virtue of being the National Registration Coordinator and not due to their status as Registered Officer. This remains true irrespective of who is currently appointed as the Registered Officer.
 
 
 ### 51. Branch Representative
@@ -1121,7 +1155,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    e. Treasurer; and
 
-   f. Registered officer
+   f. National Registration Coordinator
 
 > **Note:** The Secretary must reside in Australia.
 
@@ -1345,7 +1379,15 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    c. philanthropic grant-giving organisations;
 
-   d. funds provided by Governments, Government agencies or agents, for the purposes of supporting candidates or parties to run in elections.
+   d. funds provided by Governments, Government agencies or agents, for the purposes of supporting candidates or parties to run in elections; and
+
+   e. small to medium enterprises as defined by the Australian Bureau of Statistics, providing that they are fully Australian-owned and—
+
+      1. are not involved in environmental destruction through fossil fuel extraction, irresponsible use of water, or unsustainable clearing of land;
+
+      2. do not promote gambling, tobacco, or other products and services with known negative externalities of social consequence; and
+
+      3. have not also, within 6 months of any donation to the Association, donated to any party with goals that oppose those of the Association.
 
 3. The Association must not source funds from any source whose purposes or policies run counter to the Association's purposes, policies or strategies with the exception of funding sourced from sources identified in sub-rule (2)(d).
 
@@ -1910,21 +1952,21 @@ if this is done in good faith on terms no more favourable than if the Member was
 
 1. At times multiple members of the Association will seek to contest electable positions. In this case, the following rules will be used to decide which candidates will be endorsed and in what position:
 
+   a. in the case of multi member seats
+
+      1. by mutual agreement between the candidate nominees
+
+      2. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2).
+
+   b. in the case of single member seats
+
+      1. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2).
+
 > **Note:** This is expected in the case of the top ballot position on a Federal Senate seat or State upper house seat, or in the case of a winnable single member electorate emerging.
 
-2. in the case of multi member seats
+2. Where one or more Association candidates must be selected for a contested position, the election must be held as set out in Part 8-Division 1, by all the Members entitled to vote as per sub-rule (3).
 
-   a. by mutual agreement between the candidate nominees
-
-   b. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2).
-
-3. in the case of single member seats
-
-   a. by a ballot held by all members of the Association entitled to vote in accordance with sub-rule (2).
-
-4. Where one or more Association candidates must be selected for a contested position, the election must be held as set out in Part 8-Division 1, by all the Members entitled to vote as per sub-rule (3).
-
-5. Association members entitled to vote for a contested position must meet the following criteria to be able to vote:
+3. Association members entitled to vote for a contested position must meet the following criteria to be able to vote:
 
    a. be a current Member of the Association
 
@@ -1932,7 +1974,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    c. be a member of the Association for more than 1 year.
 
-6. Voting, under sub-rule (2), to select candidates must take place either—
+4. Voting, under sub-rule (2), to select candidates must take place either—
 
    a. in a physical meeting;
 
