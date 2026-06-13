@@ -961,7 +961,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
    f. a National Registration Coordinator;
 
-   g. up to one Branch Representative per branch noting sub clause [45](1)(j)
+   g. up to one Branch Representative per branch.
 
 > **Note:** The Association and its members where possible should seek to ensure the Committee reflects the various Branches in a proportional manner.
 
