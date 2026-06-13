@@ -1387,7 +1387,7 @@ if this is done in good faith on terms no more favourable than if the Member was
 
       2. do not promote gambling, tobacco, or other products and services with known negative externalities of social consequence; and
 
-      3. have not also, within 6 months of any donation to the Association, donated to any party with goals that oppose those of the Assocation.
+      3. have not also, within 6 months of any donation to the Association, donated to any party with goals that oppose those of the Association.
 
 3. The Association must not source funds from any source whose purposes or policies run counter to the Association's purposes, policies or strategies with the exception of funding sourced from sources identified in sub-rule (2)(d).
 
